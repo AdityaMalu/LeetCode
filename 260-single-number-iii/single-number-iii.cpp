@@ -1,16 +1,28 @@
 class Solution {
 public:
     vector<int> singleNumber(vector<int>& nums) {
-        unordered_map<int,int> hash;
-        vector<int>ans;
-        for(int i = 0 ;i < nums.size() ; i++){
-            hash[nums[i]]++;
+        int all_xor = 0;
+        for(auto i: nums){
+            all_xor ^= i;
+        } 
+        int group_one = 0;
+        int group_two = 0;
+
+        int bit_pos_diff = 0;
+
+        while(((all_xor >> bit_pos_diff) & 1) != 1){
+            bit_pos_diff++;
         }
-        for (auto itr = hash.begin(); itr != hash.end(); itr++) {
-        if (itr->second == 1) {
-            ans.push_back(itr->first);
+
+        for(int i:nums){
+            if(((i>> bit_pos_diff) & 1)==1){
+                group_one ^=i;
+            }
+            else{
+                group_two ^= i;
+            }
         }
-    }
-        return ans; 
+
+        return {group_one,group_two};
     }
 };
