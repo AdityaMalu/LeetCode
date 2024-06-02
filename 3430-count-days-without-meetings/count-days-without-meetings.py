@@ -8,7 +8,6 @@ class Solution:
         last = meetings[0][1]
         
         for i in range(1, len(meetings)):
-            temp = meetings[i - 1]
             if meetings[i][0] - 1 > last:
                 ans += meetings[i][0] - last-1
             last = max(last, meetings[i][1])
