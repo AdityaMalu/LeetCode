@@ -6,6 +6,7 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/AdityaMalu/LeetCode/tree/master/0409-longest-palindrome) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/AdityaMalu/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 # String
 |  |
 | ------- |
@@ -14,3 +15,7 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/AdityaMalu/LeetCode/tree/master/0409-longest-palindrome) |
+# Array
+|  |
+| ------- |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/AdityaMalu/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
