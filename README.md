@@ -27,6 +27,7 @@ All the Leetcode i do, is here
 | [0101-symmetric-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/AdityaMalu/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 # Depth-First Search
 |  |
 | ------- |
@@ -45,3 +46,12 @@ All the Leetcode i do, is here
 | [0101-symmetric-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/AdityaMalu/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+# Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/AdityaMalu/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/AdityaMalu/LeetCode/tree/master/0222-count-complete-tree-nodes) |
