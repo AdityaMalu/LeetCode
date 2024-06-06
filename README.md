@@ -5,6 +5,7 @@ All the Leetcode i do, is here
 # Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/AdityaMalu/LeetCode/tree/master/0036-valid-sudoku) |
 | [0409-longest-palindrome](https://github.com/AdityaMalu/LeetCode/tree/master/0409-longest-palindrome) |
 | [0876-hand-of-straights](https://github.com/AdityaMalu/LeetCode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/AdityaMalu/LeetCode/tree/master/1044-find-common-characters) |
@@ -25,6 +26,7 @@ All the Leetcode i do, is here
 # Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/AdityaMalu/LeetCode/tree/master/0036-valid-sudoku) |
 | [0876-hand-of-straights](https://github.com/AdityaMalu/LeetCode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/AdityaMalu/LeetCode/tree/master/1044-find-common-characters) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/AdityaMalu/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -81,3 +83,7 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AdityaMalu/LeetCode/tree/master/0070-climbing-stairs) |
+# Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/AdityaMalu/LeetCode/tree/master/0036-valid-sudoku) |
