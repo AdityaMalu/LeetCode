@@ -6,6 +6,7 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/AdityaMalu/LeetCode/tree/master/0409-longest-palindrome) |
+| [0876-hand-of-straights](https://github.com/AdityaMalu/LeetCode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/AdityaMalu/LeetCode/tree/master/1044-find-common-characters) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/AdityaMalu/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/AdityaMalu/LeetCode/tree/master/3444-find-the-number-of-good-pairs-ii) |
@@ -19,10 +20,12 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/AdityaMalu/LeetCode/tree/master/0409-longest-palindrome) |
+| [0876-hand-of-straights](https://github.com/AdityaMalu/LeetCode/tree/master/0876-hand-of-straights) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/AdityaMalu/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 # Array
 |  |
 | ------- |
+| [0876-hand-of-straights](https://github.com/AdityaMalu/LeetCode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/AdityaMalu/LeetCode/tree/master/1044-find-common-characters) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/AdityaMalu/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/AdityaMalu/LeetCode/tree/master/3444-find-the-number-of-good-pairs-ii) |
@@ -64,4 +67,5 @@ All the Leetcode i do, is here
 # Sorting
 |  |
 | ------- |
+| [0876-hand-of-straights](https://github.com/AdityaMalu/LeetCode/tree/master/0876-hand-of-straights) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/AdityaMalu/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
