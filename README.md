@@ -16,6 +16,7 @@ All the Leetcode i do, is here
 # String
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/AdityaMalu/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0409-longest-palindrome](https://github.com/AdityaMalu/LeetCode/tree/master/0409-longest-palindrome) |
 | [0648-replace-words](https://github.com/AdityaMalu/LeetCode/tree/master/0648-replace-words) |
 | [1044-find-common-characters](https://github.com/AdityaMalu/LeetCode/tree/master/1044-find-common-characters) |
@@ -43,6 +44,7 @@ All the Leetcode i do, is here
 | [0112-path-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/AdityaMalu/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/AdityaMalu/LeetCode/tree/master/0257-binary-tree-paths) |
 # Depth-First Search
 |  |
 | ------- |
@@ -50,6 +52,7 @@ All the Leetcode i do, is here
 | [0111-minimum-depth-of-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/AdityaMalu/LeetCode/tree/master/0257-binary-tree-paths) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -65,6 +68,7 @@ All the Leetcode i do, is here
 | [0112-path-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/AdityaMalu/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/AdityaMalu/LeetCode/tree/master/0257-binary-tree-paths) |
 # Binary Search
 |  |
 | ------- |
@@ -98,3 +102,7 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/AdityaMalu/LeetCode/tree/master/0648-replace-words) |
+# Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/AdityaMalu/LeetCode/tree/master/0257-binary-tree-paths) |
