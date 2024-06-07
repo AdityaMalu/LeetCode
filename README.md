@@ -47,6 +47,7 @@ All the Leetcode i do, is here
 | [0257-binary-tree-paths](https://github.com/AdityaMalu/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AdityaMalu/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 # Depth-First Search
 |  |
 | ------- |
@@ -57,6 +58,7 @@ All the Leetcode i do, is here
 | [0257-binary-tree-paths](https://github.com/AdityaMalu/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AdityaMalu/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -65,6 +67,7 @@ All the Leetcode i do, is here
 | [0112-path-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AdityaMalu/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 # Binary Tree
 |  |
 | ------- |
