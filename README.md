@@ -45,6 +45,7 @@ All the Leetcode i do, is here
 | [0222-count-complete-tree-nodes](https://github.com/AdityaMalu/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AdityaMalu/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/AdityaMalu/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 # Depth-First Search
 |  |
 | ------- |
@@ -53,6 +54,7 @@ All the Leetcode i do, is here
 | [0112-path-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AdityaMalu/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/AdityaMalu/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -60,6 +62,7 @@ All the Leetcode i do, is here
 | [0111-minimum-depth-of-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/AdityaMalu/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 # Binary Tree
 |  |
 | ------- |
@@ -69,6 +72,7 @@ All the Leetcode i do, is here
 | [0222-count-complete-tree-nodes](https://github.com/AdityaMalu/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AdityaMalu/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/AdityaMalu/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 # Binary Search
 |  |
 | ------- |
@@ -106,3 +110,7 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/AdityaMalu/LeetCode/tree/master/0257-binary-tree-paths) |
+# Binary Search Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/AdityaMalu/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
