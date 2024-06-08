@@ -30,6 +30,7 @@ All the Leetcode i do, is here
 # Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AdityaMalu/LeetCode/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/AdityaMalu/LeetCode/tree/master/0036-valid-sudoku) |
 | [0523-continuous-subarray-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/AdityaMalu/LeetCode/tree/master/0648-replace-words) |
@@ -100,6 +101,7 @@ All the Leetcode i do, is here
 # Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AdityaMalu/LeetCode/tree/master/0015-3sum) |
 | [0876-hand-of-straights](https://github.com/AdityaMalu/LeetCode/tree/master/0876-hand-of-straights) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/AdityaMalu/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 # Math
@@ -147,3 +149,7 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/AdityaMalu/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+# Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/AdityaMalu/LeetCode/tree/master/0015-3sum) |
