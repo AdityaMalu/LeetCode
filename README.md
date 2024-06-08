@@ -50,6 +50,7 @@ All the Leetcode i do, is here
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AdityaMalu/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/AdityaMalu/LeetCode/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 # Depth-First Search
 |  |
@@ -62,6 +63,7 @@ All the Leetcode i do, is here
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AdityaMalu/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/AdityaMalu/LeetCode/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 # Breadth-First Search
 |  |
@@ -84,6 +86,7 @@ All the Leetcode i do, is here
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AdityaMalu/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/AdityaMalu/LeetCode/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0572-subtree-of-another-tree) |
 # Binary Search
 |  |
 | ------- |
@@ -130,3 +133,11 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0523-continuous-subarray-sum) |
+# String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0572-subtree-of-another-tree) |
+# Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0572-subtree-of-another-tree) |
