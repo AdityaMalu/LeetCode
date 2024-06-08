@@ -7,6 +7,7 @@ All the Leetcode i do, is here
 | ------- |
 | [0036-valid-sudoku](https://github.com/AdityaMalu/LeetCode/tree/master/0036-valid-sudoku) |
 | [0409-longest-palindrome](https://github.com/AdityaMalu/LeetCode/tree/master/0409-longest-palindrome) |
+| [0523-continuous-subarray-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/AdityaMalu/LeetCode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/AdityaMalu/LeetCode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/AdityaMalu/LeetCode/tree/master/1044-find-common-characters) |
@@ -30,6 +31,7 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/AdityaMalu/LeetCode/tree/master/0036-valid-sudoku) |
+| [0523-continuous-subarray-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/AdityaMalu/LeetCode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/AdityaMalu/LeetCode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/AdityaMalu/LeetCode/tree/master/1044-find-common-characters) |
@@ -96,6 +98,7 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AdityaMalu/LeetCode/tree/master/0070-climbing-stairs) |
+| [0523-continuous-subarray-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0523-continuous-subarray-sum) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -120,3 +123,7 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AdityaMalu/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+# Prefix Sum
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0523-continuous-subarray-sum) |
