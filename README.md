@@ -52,6 +52,7 @@ All the Leetcode i do, is here
 | [0563-binary-tree-tilt](https://github.com/AdityaMalu/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/AdityaMalu/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 # Depth-First Search
 |  |
 | ------- |
@@ -65,6 +66,7 @@ All the Leetcode i do, is here
 | [0563-binary-tree-tilt](https://github.com/AdityaMalu/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/AdityaMalu/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -141,3 +143,7 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0572-subtree-of-another-tree) |
+# Stack
+|  |
+| ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/AdityaMalu/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
