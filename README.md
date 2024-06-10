@@ -11,6 +11,7 @@ All the Leetcode i do, is here
 | [0648-replace-words](https://github.com/AdityaMalu/LeetCode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/AdityaMalu/LeetCode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/AdityaMalu/LeetCode/tree/master/1044-find-common-characters) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/AdityaMalu/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/AdityaMalu/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/AdityaMalu/LeetCode/tree/master/3444-find-the-number-of-good-pairs-ii) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/AdityaMalu/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -40,6 +41,7 @@ All the Leetcode i do, is here
 | [0876-hand-of-straights](https://github.com/AdityaMalu/LeetCode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/AdityaMalu/LeetCode/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/AdityaMalu/LeetCode/tree/master/1137-height-checker) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/AdityaMalu/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/AdityaMalu/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/AdityaMalu/LeetCode/tree/master/3444-find-the-number-of-good-pairs-ii) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/AdityaMalu/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
