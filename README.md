@@ -38,6 +38,7 @@ All the Leetcode i do, is here
 | [0238-product-of-array-except-self](https://github.com/AdityaMalu/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/AdityaMalu/LeetCode/tree/master/0648-replace-words) |
+| [0735-asteroid-collision](https://github.com/AdityaMalu/LeetCode/tree/master/0735-asteroid-collision) |
 | [0876-hand-of-straights](https://github.com/AdityaMalu/LeetCode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/AdityaMalu/LeetCode/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/AdityaMalu/LeetCode/tree/master/1137-height-checker) |
@@ -156,6 +157,7 @@ All the Leetcode i do, is here
 # Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/AdityaMalu/LeetCode/tree/master/0735-asteroid-collision) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/AdityaMalu/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 # Two Pointers
 |  |
@@ -166,3 +168,7 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/AdityaMalu/LeetCode/tree/master/1137-height-checker) |
+# Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/AdityaMalu/LeetCode/tree/master/0735-asteroid-collision) |
