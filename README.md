@@ -24,12 +24,14 @@ All the Leetcode i do, is here
 # Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AdityaMalu/LeetCode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/AdityaMalu/LeetCode/tree/master/0409-longest-palindrome) |
 | [0876-hand-of-straights](https://github.com/AdityaMalu/LeetCode/tree/master/0876-hand-of-straights) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/AdityaMalu/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 # Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AdityaMalu/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AdityaMalu/LeetCode/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/AdityaMalu/LeetCode/tree/master/0036-valid-sudoku) |
 | [0238-product-of-array-except-self](https://github.com/AdityaMalu/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -156,6 +158,7 @@ All the Leetcode i do, is here
 # Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AdityaMalu/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AdityaMalu/LeetCode/tree/master/0015-3sum) |
 # Counting Sort
 |  |
