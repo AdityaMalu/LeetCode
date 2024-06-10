@@ -32,6 +32,7 @@ All the Leetcode i do, is here
 | ------- |
 | [0015-3sum](https://github.com/AdityaMalu/LeetCode/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/AdityaMalu/LeetCode/tree/master/0036-valid-sudoku) |
+| [0238-product-of-array-except-self](https://github.com/AdityaMalu/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/AdityaMalu/LeetCode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/AdityaMalu/LeetCode/tree/master/0876-hand-of-straights) |
@@ -138,6 +139,7 @@ All the Leetcode i do, is here
 # Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/AdityaMalu/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0523-continuous-subarray-sum) |
 # String Matching
 |  |
