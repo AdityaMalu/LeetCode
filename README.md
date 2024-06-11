@@ -153,6 +153,7 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AdityaMalu/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 # Hash Function
 |  |
 | ------- |
@@ -176,3 +177,7 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/AdityaMalu/LeetCode/tree/master/0735-asteroid-collision) |
+# Sliding Window
+|  |
+| ------- |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AdityaMalu/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
