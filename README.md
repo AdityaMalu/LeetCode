@@ -109,6 +109,7 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/AdityaMalu/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0338-counting-bits](https://github.com/AdityaMalu/LeetCode/tree/master/0338-counting-bits) |
 # Sorting
 |  |
 | ------- |
@@ -127,6 +128,7 @@ All the Leetcode i do, is here
 | ------- |
 | [0070-climbing-stairs](https://github.com/AdityaMalu/LeetCode/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0338-counting-bits](https://github.com/AdityaMalu/LeetCode/tree/master/0338-counting-bits) |
 # Memoization
 |  |
 | ------- |
