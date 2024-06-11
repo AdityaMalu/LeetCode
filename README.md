@@ -36,6 +36,7 @@ All the Leetcode i do, is here
 | [0011-container-with-most-water](https://github.com/AdityaMalu/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AdityaMalu/LeetCode/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/AdityaMalu/LeetCode/tree/master/0036-valid-sudoku) |
+| [0119-pascals-triangle-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0238-product-of-array-except-self](https://github.com/AdityaMalu/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/AdityaMalu/LeetCode/tree/master/0648-replace-words) |
@@ -125,6 +126,7 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AdityaMalu/LeetCode/tree/master/0070-climbing-stairs) |
+| [0119-pascals-triangle-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0119-pascals-triangle-ii) |
 # Memoization
 |  |
 | ------- |
