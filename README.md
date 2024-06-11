@@ -42,6 +42,7 @@ All the Leetcode i do, is here
 | [0735-asteroid-collision](https://github.com/AdityaMalu/LeetCode/tree/master/0735-asteroid-collision) |
 | [0876-hand-of-straights](https://github.com/AdityaMalu/LeetCode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/AdityaMalu/LeetCode/tree/master/1044-find-common-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/AdityaMalu/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1137-height-checker](https://github.com/AdityaMalu/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/AdityaMalu/LeetCode/tree/master/1217-relative-sort-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AdityaMalu/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -144,11 +145,13 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AdityaMalu/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [1046-max-consecutive-ones-iii](https://github.com/AdityaMalu/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 # Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AdityaMalu/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/AdityaMalu/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 # String Matching
 |  |
 | ------- |
@@ -180,4 +183,5 @@ All the Leetcode i do, is here
 # Sliding Window
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/AdityaMalu/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AdityaMalu/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
