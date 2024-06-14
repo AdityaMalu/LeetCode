@@ -29,6 +29,7 @@ All the Leetcode i do, is here
 | [0011-container-with-most-water](https://github.com/AdityaMalu/LeetCode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/AdityaMalu/LeetCode/tree/master/0409-longest-palindrome) |
 | [0876-hand-of-straights](https://github.com/AdityaMalu/LeetCode/tree/master/0876-hand-of-straights) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/AdityaMalu/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/AdityaMalu/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AdityaMalu/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Array
@@ -43,6 +44,7 @@ All the Leetcode i do, is here
 | [0648-replace-words](https://github.com/AdityaMalu/LeetCode/tree/master/0648-replace-words) |
 | [0735-asteroid-collision](https://github.com/AdityaMalu/LeetCode/tree/master/0735-asteroid-collision) |
 | [0876-hand-of-straights](https://github.com/AdityaMalu/LeetCode/tree/master/0876-hand-of-straights) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/AdityaMalu/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1044-find-common-characters](https://github.com/AdityaMalu/LeetCode/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/AdityaMalu/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1137-height-checker](https://github.com/AdityaMalu/LeetCode/tree/master/1137-height-checker) |
@@ -117,6 +119,7 @@ All the Leetcode i do, is here
 | ------- |
 | [0015-3sum](https://github.com/AdityaMalu/LeetCode/tree/master/0015-3sum) |
 | [0876-hand-of-straights](https://github.com/AdityaMalu/LeetCode/tree/master/0876-hand-of-straights) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/AdityaMalu/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/AdityaMalu/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/AdityaMalu/LeetCode/tree/master/1217-relative-sort-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/AdityaMalu/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -181,6 +184,7 @@ All the Leetcode i do, is here
 # Counting Sort
 |  |
 | ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/AdityaMalu/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/AdityaMalu/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/AdityaMalu/LeetCode/tree/master/1217-relative-sort-array) |
 # Simulation
