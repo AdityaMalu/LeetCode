@@ -14,6 +14,7 @@ All the Leetcode i do, is here
 | [1217-relative-sort-array](https://github.com/AdityaMalu/LeetCode/tree/master/1217-relative-sort-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AdityaMalu/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/AdityaMalu/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/AdityaMalu/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/AdityaMalu/LeetCode/tree/master/3444-find-the-number-of-good-pairs-ii) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/AdityaMalu/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 # String
@@ -51,6 +52,7 @@ All the Leetcode i do, is here
 | [1217-relative-sort-array](https://github.com/AdityaMalu/LeetCode/tree/master/1217-relative-sort-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AdityaMalu/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/AdityaMalu/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/AdityaMalu/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AdityaMalu/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/AdityaMalu/LeetCode/tree/master/3444-find-the-number-of-good-pairs-ii) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/AdityaMalu/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -123,6 +125,7 @@ All the Leetcode i do, is here
 | [1137-height-checker](https://github.com/AdityaMalu/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/AdityaMalu/LeetCode/tree/master/1217-relative-sort-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/AdityaMalu/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/AdityaMalu/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AdityaMalu/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Math
 |  |
@@ -181,6 +184,7 @@ All the Leetcode i do, is here
 | ------- |
 | [0011-container-with-most-water](https://github.com/AdityaMalu/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AdityaMalu/LeetCode/tree/master/0015-3sum) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/AdityaMalu/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 # Counting Sort
 |  |
 | ------- |
