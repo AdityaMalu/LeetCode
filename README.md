@@ -58,6 +58,7 @@ All the Leetcode i do, is here
 | [1217-relative-sort-array](https://github.com/AdityaMalu/LeetCode/tree/master/1217-relative-sort-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AdityaMalu/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/AdityaMalu/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AdityaMalu/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AdityaMalu/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AdityaMalu/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AdityaMalu/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -149,6 +150,7 @@ All the Leetcode i do, is here
 | [0119-pascals-triangle-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/AdityaMalu/LeetCode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/AdityaMalu/LeetCode/tree/master/0338-counting-bits) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AdityaMalu/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 # Memoization
 |  |
 | ------- |
@@ -215,6 +217,7 @@ All the Leetcode i do, is here
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/AdityaMalu/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AdityaMalu/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AdityaMalu/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 # Heap (Priority Queue)
 |  |
 | ------- |
