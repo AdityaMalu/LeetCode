@@ -58,6 +58,7 @@ All the Leetcode i do, is here
 | [1217-relative-sort-array](https://github.com/AdityaMalu/LeetCode/tree/master/1217-relative-sort-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AdityaMalu/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/AdityaMalu/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AdityaMalu/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AdityaMalu/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AdityaMalu/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/AdityaMalu/LeetCode/tree/master/3444-find-the-number-of-good-pairs-ii) |
@@ -171,6 +172,7 @@ All the Leetcode i do, is here
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AdityaMalu/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0853-most-profit-assigning-work](https://github.com/AdityaMalu/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [1046-max-consecutive-ones-iii](https://github.com/AdityaMalu/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AdityaMalu/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 # Prefix Sum
 |  |
 | ------- |
