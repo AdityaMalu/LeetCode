@@ -222,3 +222,14 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0502-ipo](https://github.com/AdityaMalu/LeetCode/tree/master/0502-ipo) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/AdityaMalu/LeetCode/tree/master/0152-maximum-product-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/AdityaMalu/LeetCode/tree/master/0152-maximum-product-subarray) |
+<!---LeetCode Topics End-->
