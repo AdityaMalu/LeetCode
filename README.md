@@ -227,6 +227,7 @@ All the Leetcode i do, is here
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/AdityaMalu/LeetCode/tree/master/0051-n-queens) |
 | [0152-maximum-product-subarray](https://github.com/AdityaMalu/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/AdityaMalu/LeetCode/tree/master/0162-find-peak-element) |
 ## Dynamic Programming
@@ -237,4 +238,8 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/AdityaMalu/LeetCode/tree/master/0162-find-peak-element) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/AdityaMalu/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
