@@ -232,6 +232,7 @@ All the Leetcode i do, is here
 | [0162-find-peak-element](https://github.com/AdityaMalu/LeetCode/tree/master/0162-find-peak-element) |
 | [0496-next-greater-element-i](https://github.com/AdityaMalu/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AdityaMalu/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [3226-minimum-number-game](https://github.com/AdityaMalu/LeetCode/tree/master/3226-minimum-number-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -273,6 +274,7 @@ All the Leetcode i do, is here
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AdityaMalu/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AdityaMalu/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [3226-minimum-number-game](https://github.com/AdityaMalu/LeetCode/tree/master/3226-minimum-number-game) |
 ## Binary Tree
 |  |
 | ------- |
@@ -285,4 +287,9 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AdityaMalu/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [3226-minimum-number-game](https://github.com/AdityaMalu/LeetCode/tree/master/3226-minimum-number-game) |
+## Simulation
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/AdityaMalu/LeetCode/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
