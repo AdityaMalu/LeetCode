@@ -231,6 +231,7 @@ All the Leetcode i do, is here
 | [0152-maximum-product-subarray](https://github.com/AdityaMalu/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/AdityaMalu/LeetCode/tree/master/0162-find-peak-element) |
 | [0496-next-greater-element-i](https://github.com/AdityaMalu/LeetCode/tree/master/0496-next-greater-element-i) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AdityaMalu/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -271,6 +272,7 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AdityaMalu/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AdityaMalu/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Binary Tree
 |  |
 | ------- |
@@ -279,4 +281,8 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AdityaMalu/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Sorting
+|  |
+| ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AdityaMalu/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
