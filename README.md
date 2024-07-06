@@ -230,6 +230,7 @@ All the Leetcode i do, is here
 | [0051-n-queens](https://github.com/AdityaMalu/LeetCode/tree/master/0051-n-queens) |
 | [0152-maximum-product-subarray](https://github.com/AdityaMalu/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/AdityaMalu/LeetCode/tree/master/0162-find-peak-element) |
+| [0496-next-greater-element-i](https://github.com/AdityaMalu/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -242,4 +243,16 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/AdityaMalu/LeetCode/tree/master/0051-n-queens) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/AdityaMalu/LeetCode/tree/master/0496-next-greater-element-i) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/AdityaMalu/LeetCode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/AdityaMalu/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
