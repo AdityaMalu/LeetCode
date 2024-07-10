@@ -292,4 +292,12 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/AdityaMalu/LeetCode/tree/master/3226-minimum-number-game) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AdityaMalu/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AdityaMalu/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
