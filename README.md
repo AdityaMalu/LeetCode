@@ -300,4 +300,8 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AdityaMalu/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/AdityaMalu/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
