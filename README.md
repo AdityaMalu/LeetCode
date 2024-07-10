@@ -304,4 +304,5 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/AdityaMalu/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0196-delete-duplicate-emails](https://github.com/AdityaMalu/LeetCode/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
