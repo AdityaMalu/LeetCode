@@ -322,4 +322,12 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/AdityaMalu/LeetCode/tree/master/0131-palindrome-partitioning) |
+## Math
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/AdityaMalu/LeetCode/tree/master/0060-permutation-sequence) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/AdityaMalu/LeetCode/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
