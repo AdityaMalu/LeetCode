@@ -239,6 +239,7 @@ All the Leetcode i do, is here
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/AdityaMalu/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/AdityaMalu/LeetCode/tree/master/0152-maximum-product-subarray) |
 ## Binary Search
 |  |
@@ -251,6 +252,7 @@ All the Leetcode i do, is here
 | [0040-combination-sum-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/AdityaMalu/LeetCode/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/AdityaMalu/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Hash Table
 |  |
 | ------- |
@@ -316,4 +318,8 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0090-subsets-ii) |
+## String
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/AdityaMalu/LeetCode/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
