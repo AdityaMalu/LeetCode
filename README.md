@@ -228,6 +228,7 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/AdityaMalu/LeetCode/tree/master/0051-n-queens) |
+| [0090-subsets-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/AdityaMalu/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/AdityaMalu/LeetCode/tree/master/0162-find-peak-element) |
 | [0496-next-greater-element-i](https://github.com/AdityaMalu/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -245,6 +246,7 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/AdityaMalu/LeetCode/tree/master/0051-n-queens) |
+| [0090-subsets-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0090-subsets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -306,4 +308,8 @@ All the Leetcode i do, is here
 | [0181-employees-earning-more-than-their-managers](https://github.com/AdityaMalu/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/AdityaMalu/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/AdityaMalu/LeetCode/tree/master/0196-delete-duplicate-emails) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
