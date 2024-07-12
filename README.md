@@ -236,6 +236,7 @@ All the Leetcode i do, is here
 | [0152-maximum-product-subarray](https://github.com/AdityaMalu/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/AdityaMalu/LeetCode/tree/master/0162-find-peak-element) |
 | [0496-next-greater-element-i](https://github.com/AdityaMalu/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0540-single-element-in-a-sorted-array](https://github.com/AdityaMalu/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AdityaMalu/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3226-minimum-number-game](https://github.com/AdityaMalu/LeetCode/tree/master/3226-minimum-number-game) |
 ## Dynamic Programming
@@ -247,6 +248,7 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/AdityaMalu/LeetCode/tree/master/0162-find-peak-element) |
+| [0540-single-element-in-a-sorted-array](https://github.com/AdityaMalu/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Backtracking
 |  |
 | ------- |
