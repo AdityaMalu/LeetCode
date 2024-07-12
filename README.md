@@ -227,6 +227,7 @@ All the Leetcode i do, is here
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AdityaMalu/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AdityaMalu/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/AdityaMalu/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0039-combination-sum) |
@@ -248,6 +249,7 @@ All the Leetcode i do, is here
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AdityaMalu/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AdityaMalu/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AdityaMalu/LeetCode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AdityaMalu/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -343,4 +345,8 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/AdityaMalu/LeetCode/tree/master/0037-sudoku-solver) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AdityaMalu/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
