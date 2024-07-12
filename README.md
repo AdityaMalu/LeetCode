@@ -227,6 +227,7 @@ All the Leetcode i do, is here
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/AdityaMalu/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/AdityaMalu/LeetCode/tree/master/0046-permutations) |
@@ -249,6 +250,7 @@ All the Leetcode i do, is here
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/AdityaMalu/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/AdityaMalu/LeetCode/tree/master/0046-permutations) |
@@ -258,6 +260,7 @@ All the Leetcode i do, is here
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/AdityaMalu/LeetCode/tree/master/0037-sudoku-solver) |
 | [0496-next-greater-element-i](https://github.com/AdityaMalu/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
@@ -332,4 +335,8 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/AdityaMalu/LeetCode/tree/master/0060-permutation-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/AdityaMalu/LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
