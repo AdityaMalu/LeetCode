@@ -246,4 +246,20 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/AdityaMalu/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+## Hash Table
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/AdityaMalu/LeetCode/tree/master/0146-lru-cache) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/AdityaMalu/LeetCode/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/AdityaMalu/LeetCode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/AdityaMalu/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
