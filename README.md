@@ -233,6 +233,7 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/AdityaMalu/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0937-online-stock-span](https://github.com/AdityaMalu/LeetCode/tree/master/0937-online-stock-span) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AdityaMalu/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Greedy
 |  |
@@ -247,6 +248,7 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/AdityaMalu/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0937-online-stock-span](https://github.com/AdityaMalu/LeetCode/tree/master/0937-online-stock-span) |
 ## Hash Table
 |  |
 | ------- |
@@ -262,6 +264,7 @@ All the Leetcode i do, is here
 | ------- |
 | [0146-lru-cache](https://github.com/AdityaMalu/LeetCode/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/AdityaMalu/LeetCode/tree/master/0460-lfu-cache) |
+| [0937-online-stock-span](https://github.com/AdityaMalu/LeetCode/tree/master/0937-online-stock-span) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -275,4 +278,8 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/AdityaMalu/LeetCode/tree/master/1036-rotting-oranges) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/AdityaMalu/LeetCode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
