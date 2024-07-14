@@ -296,6 +296,7 @@ All the Leetcode i do, is here
 | [0207-course-schedule](https://github.com/AdityaMalu/LeetCode/tree/master/0207-course-schedule) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AdityaMalu/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0801-is-graph-bipartite](https://github.com/AdityaMalu/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/AdityaMalu/LeetCode/tree/master/1036-rotting-oranges) |
 ## Matrix
@@ -374,6 +375,7 @@ All the Leetcode i do, is here
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AdityaMalu/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0801-is-graph-bipartite](https://github.com/AdityaMalu/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
@@ -423,6 +425,7 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AdityaMalu/LeetCode/tree/master/0207-course-schedule) |
+| [0801-is-graph-bipartite](https://github.com/AdityaMalu/LeetCode/tree/master/0801-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
@@ -431,4 +434,5 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/AdityaMalu/LeetCode/tree/master/0200-number-of-islands) |
+| [0801-is-graph-bipartite](https://github.com/AdityaMalu/LeetCode/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
