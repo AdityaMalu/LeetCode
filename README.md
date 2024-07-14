@@ -340,6 +340,7 @@ All the Leetcode i do, is here
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AdityaMalu/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AdityaMalu/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -353,6 +354,7 @@ All the Leetcode i do, is here
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AdityaMalu/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AdityaMalu/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -367,6 +369,7 @@ All the Leetcode i do, is here
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AdityaMalu/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AdityaMalu/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -383,5 +386,6 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
