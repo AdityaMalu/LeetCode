@@ -249,6 +249,7 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/AdityaMalu/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AdityaMalu/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0239-sliding-window-maximum](https://github.com/AdityaMalu/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1036-rotting-oranges](https://github.com/AdityaMalu/LeetCode/tree/master/1036-rotting-oranges) |
 ## Monotonic Stack
@@ -259,6 +260,7 @@ All the Leetcode i do, is here
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AdityaMalu/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0146-lru-cache](https://github.com/AdityaMalu/LeetCode/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/AdityaMalu/LeetCode/tree/master/0242-valid-anagram) |
 | [0460-lfu-cache](https://github.com/AdityaMalu/LeetCode/tree/master/0460-lfu-cache) |
@@ -331,6 +333,7 @@ All the Leetcode i do, is here
 | [0094-binary-tree-inorder-traversal](https://github.com/AdityaMalu/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AdityaMalu/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AdityaMalu/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AdityaMalu/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -352,6 +355,7 @@ All the Leetcode i do, is here
 | [0094-binary-tree-inorder-traversal](https://github.com/AdityaMalu/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AdityaMalu/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AdityaMalu/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AdityaMalu/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -361,4 +365,8 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AdityaMalu/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
