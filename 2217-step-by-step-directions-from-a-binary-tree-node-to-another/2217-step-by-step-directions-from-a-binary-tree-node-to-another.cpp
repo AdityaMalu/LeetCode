@@ -1,49 +1,57 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
-class Solution {
+class Solution
+{
 public:
 
-    static TreeNode* LCA(TreeNode* root, int x, int y) {
-        if (root == NULL || root->val == x || root->val == y)
+    TreeNode *findLCA(TreeNode *root, int p, int q)
+    {
+        if (!root || root->val == p || root->val == q)
+        {
             return root;
-        TreeNode* l = LCA(root->left, x, y);
-        TreeNode* r = LCA(root->right, x, y);
-        if (l == NULL) return r;
-        if (r == NULL) return l;
-        return root;
-    }
-    
-    static bool dfs(TreeNode* root, int x, string& path, bool rev = 0) {
-        if (root == NULL)
-            return 0;
-        if (root->val == x)
-            return 1;
-
-        path += (rev ? 'U' : 'L');
-        if (dfs(root->left, x, path, rev)) return 1;
-        path.pop_back();
-
-        path += (rev ? 'U' : 'R');
-        if (dfs(root->right, x, path, rev)) return 1;
-        path.pop_back();
-
-        return 0;
+        }
+        TreeNode *left = findLCA(root->left, p, q);
+        TreeNode *right = findLCA(root->right, p, q);
+        if (left && right)
+        {
+            return root;
+        }
+        return left ? left : right;
     }
 
-    string getDirections(TreeNode* root, int startValue, int destValue) {
-        root = LCA(root, startValue, destValue);
-        string pathFrom = "", pathTo = "";
-        dfs(root, startValue, pathFrom, 1);
-        dfs(root, destValue, pathTo);
-        return pathFrom + pathTo;
+    bool findPath(TreeNode *root, int value, string &path)
+    {
+        if (!root)
+        {
+            return false;
+        }
+        if (root->val == value)
+        {
+            return true;
+        }
+        path += 'L';
+        if (findPath(root->left, value, path))
+        {
+            return true;
+        }
+        path.pop_back();
+        path += 'R';
+        if (findPath(root->right, value, path))
+        {
+            return true;
+        }
+        path.pop_back();
+        return false;
+    }
+
+    string getDirections(TreeNode *root, int startValue, int destValue)
+    {
+        TreeNode *lca = findLCA(root, startValue, destValue);
+        string pathToStart, pathToDest;
+        findPath(lca, startValue, pathToStart);
+        findPath(lca, destValue, pathToDest);
+        for (char &c : pathToStart)
+        {
+            c = 'U';
+        }
+        return pathToStart + pathToDest;
     }
 };
