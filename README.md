@@ -517,4 +517,8 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AdityaMalu/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/AdityaMalu/LeetCode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
