@@ -234,6 +234,7 @@ All the Leetcode i do, is here
 | [0165-compare-version-numbers](https://github.com/AdityaMalu/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0208-implement-trie-prefix-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/AdityaMalu/LeetCode/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/AdityaMalu/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1250-longest-common-subsequence](https://github.com/AdityaMalu/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AdityaMalu/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AdityaMalu/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -285,6 +286,7 @@ All the Leetcode i do, is here
 | [0242-valid-anagram](https://github.com/AdityaMalu/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AdityaMalu/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/AdityaMalu/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0424-longest-repeating-character-replacement](https://github.com/AdityaMalu/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/AdityaMalu/LeetCode/tree/master/0460-lfu-cache) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AdityaMalu/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -344,6 +346,7 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AdityaMalu/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/AdityaMalu/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
