@@ -270,6 +270,7 @@ All the Leetcode i do, is here
 | [0967-minimum-falling-path-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/AdityaMalu/LeetCode/tree/master/1036-rotting-oranges) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/AdityaMalu/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2047-find-a-peak-element-ii](https://github.com/AdityaMalu/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -330,6 +331,7 @@ All the Leetcode i do, is here
 | [0733-flood-fill](https://github.com/AdityaMalu/LeetCode/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/AdityaMalu/LeetCode/tree/master/1036-rotting-oranges) |
+| [2047-find-a-peak-element-ii](https://github.com/AdityaMalu/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 ## Data Stream
 |  |
 | ------- |
@@ -466,6 +468,7 @@ All the Leetcode i do, is here
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AdityaMalu/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [2047-find-a-peak-element-ii](https://github.com/AdityaMalu/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 ## Iterator
 |  |
 | ------- |
