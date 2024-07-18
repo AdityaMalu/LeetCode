@@ -515,6 +515,7 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/AdityaMalu/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/AdityaMalu/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Quickselect
 |  |
 | ------- |
