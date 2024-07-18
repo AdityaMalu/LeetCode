@@ -275,6 +275,7 @@ All the Leetcode i do, is here
 | [0493-reverse-pairs](https://github.com/AdityaMalu/LeetCode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/AdityaMalu/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0733-flood-fill](https://github.com/AdityaMalu/LeetCode/tree/master/0733-flood-fill) |
+| [0966-binary-subarrays-with-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/AdityaMalu/LeetCode/tree/master/1036-rotting-oranges) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AdityaMalu/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -299,6 +300,7 @@ All the Leetcode i do, is here
 | [0460-lfu-cache](https://github.com/AdityaMalu/LeetCode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/AdityaMalu/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AdityaMalu/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0966-binary-subarrays-with-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AdityaMalu/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AdityaMalu/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -359,6 +361,7 @@ All the Leetcode i do, is here
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AdityaMalu/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdityaMalu/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0966-binary-subarrays-with-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -558,4 +561,5 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0966-binary-subarrays-with-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
