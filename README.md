@@ -268,6 +268,7 @@ All the Leetcode i do, is here
 | [0347-top-k-frequent-elements](https://github.com/AdityaMalu/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/AdityaMalu/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0493-reverse-pairs](https://github.com/AdityaMalu/LeetCode/tree/master/0493-reverse-pairs) |
 | [0733-flood-fill](https://github.com/AdityaMalu/LeetCode/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/AdityaMalu/LeetCode/tree/master/1036-rotting-oranges) |
@@ -466,6 +467,7 @@ All the Leetcode i do, is here
 | [0215-kth-largest-element-in-an-array](https://github.com/AdityaMalu/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AdityaMalu/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/AdityaMalu/LeetCode/tree/master/0493-reverse-pairs) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -475,6 +477,7 @@ All the Leetcode i do, is here
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/AdityaMalu/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0493-reverse-pairs](https://github.com/AdityaMalu/LeetCode/tree/master/0493-reverse-pairs) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AdityaMalu/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -523,4 +526,20 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/AdityaMalu/LeetCode/tree/master/0182-duplicate-emails) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/AdityaMalu/LeetCode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/AdityaMalu/LeetCode/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/AdityaMalu/LeetCode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/AdityaMalu/LeetCode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
