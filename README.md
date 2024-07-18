@@ -279,6 +279,7 @@ All the Leetcode i do, is here
 | [0967-minimum-falling-path-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/AdityaMalu/LeetCode/tree/master/1036-rotting-oranges) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AdityaMalu/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1370-count-number-of-nice-subarrays](https://github.com/AdityaMalu/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/AdityaMalu/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2047-find-a-peak-element-ii](https://github.com/AdityaMalu/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 ## Monotonic Stack
@@ -303,6 +304,7 @@ All the Leetcode i do, is here
 | [0966-binary-subarrays-with-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AdityaMalu/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1370-count-number-of-nice-subarrays](https://github.com/AdityaMalu/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AdityaMalu/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Linked List
 |  |
@@ -362,6 +364,7 @@ All the Leetcode i do, is here
 | [0239-sliding-window-maximum](https://github.com/AdityaMalu/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdityaMalu/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/AdityaMalu/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -562,4 +565,8 @@ All the Leetcode i do, is here
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+## Math
+|  |
+| ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/AdityaMalu/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
