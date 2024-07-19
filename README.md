@@ -253,11 +253,13 @@ All the Leetcode i do, is here
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0045-jump-game-ii) |
 | [0410-split-array-largest-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AdityaMalu/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AdityaMalu/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/AdityaMalu/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -478,6 +480,7 @@ All the Leetcode i do, is here
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/AdityaMalu/LeetCode/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
