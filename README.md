@@ -260,6 +260,7 @@ All the Leetcode i do, is here
 | ------- |
 | [0064-minimum-path-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AdityaMalu/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/AdityaMalu/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AdityaMalu/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0152-maximum-product-subarray](https://github.com/AdityaMalu/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/AdityaMalu/LeetCode/tree/master/0200-number-of-islands) |
@@ -384,6 +385,7 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AdityaMalu/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/AdityaMalu/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/AdityaMalu/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AdityaMalu/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## String Matching
@@ -394,6 +396,7 @@ All the Leetcode i do, is here
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/AdityaMalu/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AdityaMalu/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/AdityaMalu/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AdityaMalu/LeetCode/tree/master/0347-top-k-frequent-elements) |
