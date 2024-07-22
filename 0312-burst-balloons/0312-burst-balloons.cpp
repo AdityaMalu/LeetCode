@@ -17,6 +17,23 @@ public:
         nums.insert(nums.begin(), 1);
         nums.push_back(1);
         vector<vector<int>> dp(nums.size(),vector<int>(nums.size() , -1));
+
+        for(int i = 0 ; i < nums.size() ; i++){
+            dp[i][i] = 0;
+        }
+
+        for(int i = nums.size() - 1 ; i > 0 ; i--){
+            for(int j = i + 1 ; j < nums.size() ; j++){
+                int maxi = INT_MIN;
+                for(int k = i ; k < j ; k++){
+                    maxi = max(maxi,(nums[i-1]*nums[k]*nums[j] + dp[i][k] + dp[k+1][j]));
+                }
+                dp[i][j] = maxi;
+            }
+        }
+
+        return dp[1][nums.size()-1];
+        
         return recc(1,nums.size()-1,nums,dp);
     }
 };
