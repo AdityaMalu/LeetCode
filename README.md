@@ -275,6 +275,7 @@ All the Leetcode i do, is here
 | [0130-surrounded-regions](https://github.com/AdityaMalu/LeetCode/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/AdityaMalu/LeetCode/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/AdityaMalu/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaMalu/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/AdityaMalu/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AdityaMalu/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/AdityaMalu/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -426,6 +427,7 @@ All the Leetcode i do, is here
 | [0086-partition-list](https://github.com/AdityaMalu/LeetCode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/AdityaMalu/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/AdityaMalu/LeetCode/tree/master/0165-compare-version-numbers) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaMalu/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AdityaMalu/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## String Matching
 |  |
@@ -548,6 +550,7 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaMalu/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0173-binary-search-tree-iterator](https://github.com/AdityaMalu/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AdityaMalu/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
