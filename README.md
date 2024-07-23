@@ -335,6 +335,7 @@ All the Leetcode i do, is here
 ## Linked List
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/AdityaMalu/LeetCode/tree/master/0086-partition-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AdityaMalu/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0146-lru-cache](https://github.com/AdityaMalu/LeetCode/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/AdityaMalu/LeetCode/tree/master/0460-lfu-cache) |
@@ -422,6 +423,7 @@ All the Leetcode i do, is here
 | [0016-3sum-closest](https://github.com/AdityaMalu/LeetCode/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AdityaMalu/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0086-partition-list](https://github.com/AdityaMalu/LeetCode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/AdityaMalu/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/AdityaMalu/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AdityaMalu/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
