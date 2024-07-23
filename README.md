@@ -293,6 +293,7 @@ All the Leetcode i do, is here
 | [0967-minimum-falling-path-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/AdityaMalu/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/AdityaMalu/LeetCode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/AdityaMalu/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AdityaMalu/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AdityaMalu/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AdityaMalu/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -364,6 +365,7 @@ All the Leetcode i do, is here
 | [0801-is-graph-bipartite](https://github.com/AdityaMalu/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/AdityaMalu/LeetCode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/AdityaMalu/LeetCode/tree/master/1073-number-of-enclaves) |
 ## Matrix
 |  |
 | ------- |
@@ -375,6 +377,7 @@ All the Leetcode i do, is here
 | [0733-flood-fill](https://github.com/AdityaMalu/LeetCode/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/AdityaMalu/LeetCode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/AdityaMalu/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AdityaMalu/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AdityaMalu/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2047-find-a-peak-element-ii](https://github.com/AdityaMalu/LeetCode/tree/master/2047-find-a-peak-element-ii) |
@@ -473,6 +476,7 @@ All the Leetcode i do, is here
 | [0733-flood-fill](https://github.com/AdityaMalu/LeetCode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/AdityaMalu/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/AdityaMalu/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AdityaMalu/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/AdityaMalu/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -567,6 +571,7 @@ All the Leetcode i do, is here
 | [0200-number-of-islands](https://github.com/AdityaMalu/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/AdityaMalu/LeetCode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/AdityaMalu/LeetCode/tree/master/0801-is-graph-bipartite) |
+| [1073-number-of-enclaves](https://github.com/AdityaMalu/LeetCode/tree/master/1073-number-of-enclaves) |
 ## Trie
 |  |
 | ------- |
