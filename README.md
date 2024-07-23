@@ -253,6 +253,7 @@ All the Leetcode i do, is here
 | [0937-online-stock-span](https://github.com/AdityaMalu/LeetCode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/AdityaMalu/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AdityaMalu/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2227-sum-of-subarray-ranges](https://github.com/AdityaMalu/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 ## Greedy
 |  |
 | ------- |
@@ -309,6 +310,7 @@ All the Leetcode i do, is here
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/AdityaMalu/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AdityaMalu/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2047-find-a-peak-element-ii](https://github.com/AdityaMalu/LeetCode/tree/master/2047-find-a-peak-element-ii) |
+| [2227-sum-of-subarray-ranges](https://github.com/AdityaMalu/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2472-build-a-matrix-with-conditions](https://github.com/AdityaMalu/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Monotonic Stack
 |  |
@@ -317,6 +319,7 @@ All the Leetcode i do, is here
 | [0496-next-greater-element-i](https://github.com/AdityaMalu/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/AdityaMalu/LeetCode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/AdityaMalu/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/AdityaMalu/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 ## Hash Table
 |  |
 | ------- |
