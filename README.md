@@ -314,6 +314,7 @@ All the Leetcode i do, is here
 | [2047-find-a-peak-element-ii](https://github.com/AdityaMalu/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2227-sum-of-subarray-ranges](https://github.com/AdityaMalu/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2472-build-a-matrix-with-conditions](https://github.com/AdityaMalu/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
+| [3442-maximum-total-reward-using-operations-i](https://github.com/AdityaMalu/LeetCode/tree/master/3442-maximum-total-reward-using-operations-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -555,6 +556,7 @@ All the Leetcode i do, is here
 | [1250-longest-common-subsequence](https://github.com/AdityaMalu/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/AdityaMalu/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [3442-maximum-total-reward-using-operations-i](https://github.com/AdityaMalu/LeetCode/tree/master/3442-maximum-total-reward-using-operations-i) |
 ## Divide and Conquer
 |  |
 | ------- |
