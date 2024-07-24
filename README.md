@@ -304,6 +304,7 @@ All the Leetcode i do, is here
 | [1073-number-of-enclaves](https://github.com/AdityaMalu/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AdityaMalu/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AdityaMalu/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1333-sort-the-jumbled-numbers](https://github.com/AdityaMalu/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AdityaMalu/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AdityaMalu/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AdityaMalu/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -452,6 +453,7 @@ All the Leetcode i do, is here
 | [0347-top-k-frequent-elements](https://github.com/AdityaMalu/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/AdityaMalu/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1333-sort-the-jumbled-numbers](https://github.com/AdityaMalu/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/AdityaMalu/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Tree
 |  |
