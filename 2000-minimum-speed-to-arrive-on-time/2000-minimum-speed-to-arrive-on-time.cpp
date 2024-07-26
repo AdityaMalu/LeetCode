@@ -1,7 +1,3 @@
-#include <vector>
-#include <algorithm>
-#include <cmath> // For ceil and floor
-
 class Solution {
 public:
     int minSpeedOnTime(vector<int>& dist, double hour) {
