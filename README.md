@@ -297,6 +297,7 @@ All the Leetcode i do, is here
 | [0518-coin-change-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/AdityaMalu/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AdityaMalu/LeetCode/tree/master/0733-flood-fill) |
+| [0881-loud-and-rich](https://github.com/AdityaMalu/LeetCode/tree/master/0881-loud-and-rich) |
 | [0943-sum-of-subarray-minimums](https://github.com/AdityaMalu/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/AdityaMalu/LeetCode/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
@@ -510,6 +511,7 @@ All the Leetcode i do, is here
 | [0744-network-delay-time](https://github.com/AdityaMalu/LeetCode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/AdityaMalu/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AdityaMalu/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0881-loud-and-rich](https://github.com/AdityaMalu/LeetCode/tree/master/0881-loud-and-rich) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/AdityaMalu/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AdityaMalu/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -603,11 +605,13 @@ All the Leetcode i do, is here
 | [0744-network-delay-time](https://github.com/AdityaMalu/LeetCode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/AdityaMalu/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AdityaMalu/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0881-loud-and-rich](https://github.com/AdityaMalu/LeetCode/tree/master/0881-loud-and-rich) |
 | [2472-build-a-matrix-with-conditions](https://github.com/AdityaMalu/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AdityaMalu/LeetCode/tree/master/0207-course-schedule) |
+| [0881-loud-and-rich](https://github.com/AdityaMalu/LeetCode/tree/master/0881-loud-and-rich) |
 | [2472-build-a-matrix-with-conditions](https://github.com/AdityaMalu/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Union Find
 |  |
