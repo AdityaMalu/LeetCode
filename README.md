@@ -315,6 +315,7 @@ All the Leetcode i do, is here
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AdityaMalu/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/AdityaMalu/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AdityaMalu/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2000-minimum-speed-to-arrive-on-time](https://github.com/AdityaMalu/LeetCode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2047-find-a-peak-element-ii](https://github.com/AdityaMalu/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2227-sum-of-subarray-ranges](https://github.com/AdityaMalu/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2472-build-a-matrix-with-conditions](https://github.com/AdityaMalu/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
@@ -598,6 +599,7 @@ All the Leetcode i do, is here
 | [0783-search-in-a-binary-search-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AdityaMalu/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [2000-minimum-speed-to-arrive-on-time](https://github.com/AdityaMalu/LeetCode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2047-find-a-peak-element-ii](https://github.com/AdityaMalu/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 ## Iterator
 |  |
