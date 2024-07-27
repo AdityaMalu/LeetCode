@@ -270,6 +270,7 @@ All the Leetcode i do, is here
 | ------- |
 | [0016-3sum-closest](https://github.com/AdityaMalu/LeetCode/tree/master/0016-3sum-closest) |
 | [0045-jump-game-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0045-jump-game-ii) |
+| [0063-unique-paths-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AdityaMalu/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -399,6 +400,7 @@ All the Leetcode i do, is here
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/AdityaMalu/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AdityaMalu/LeetCode/tree/master/0200-number-of-islands) |
@@ -558,6 +560,7 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0045-jump-game-ii) |
+| [0063-unique-paths-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/AdityaMalu/LeetCode/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/AdityaMalu/LeetCode/tree/master/0120-triangle) |
