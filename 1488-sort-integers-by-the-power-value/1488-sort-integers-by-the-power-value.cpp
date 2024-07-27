@@ -1,5 +1,6 @@
 class Solution {
 public:
+
     int recc(int n){
         if( n == 1) return 0;
 
@@ -27,13 +28,7 @@ public:
         }
 
         sort(v.begin(),v.end(),comp);
-
-        for(auto i : v){
-            cout<<i.first<<" "<<i.second<<"...";
-        }
         return v[k-1].first;
-
-
 
     }
 };
