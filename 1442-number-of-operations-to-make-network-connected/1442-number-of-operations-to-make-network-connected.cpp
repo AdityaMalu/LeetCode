@@ -1,15 +1,5 @@
 class Solution {
 public:
-    void dfs(unordered_map<int,vector<int>> &mp, vector<int> &vis, int src){
-        if(vis[src]) return;
-        vis[src] = 1;
-
-        for(auto it : mp[src]){
-            if(!vis[it]){
-                dfs(mp,vis,it);
-            }
-        }
-    }
     int makeConnected(int n, vector<vector<int>>& connections) {
         class DisJointSet{
             public:
