@@ -474,6 +474,7 @@ All the Leetcode i do, is here
 | [0948-sort-an-array](https://github.com/AdityaMalu/LeetCode/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1333-sort-the-jumbled-numbers](https://github.com/AdityaMalu/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1488-sort-integers-by-the-power-value](https://github.com/AdityaMalu/LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/AdityaMalu/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2379-maximum-total-importance-of-roads](https://github.com/AdityaMalu/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Tree
@@ -578,6 +579,7 @@ All the Leetcode i do, is here
 | [0967-minimum-falling-path-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1250-longest-common-subsequence](https://github.com/AdityaMalu/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1488-sort-integers-by-the-power-value](https://github.com/AdityaMalu/LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/AdityaMalu/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/AdityaMalu/LeetCode/tree/master/3442-maximum-total-reward-using-operations-i) |
 ## Divide and Conquer
@@ -723,4 +725,8 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/AdityaMalu/LeetCode/tree/master/0909-stone-game) |
+## Memoization
+|  |
+| ------- |
+| [1488-sort-integers-by-the-power-value](https://github.com/AdityaMalu/LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
 <!---LeetCode Topics End-->
