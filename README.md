@@ -287,6 +287,7 @@ All the Leetcode i do, is here
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/AdityaMalu/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0200-number-of-islands](https://github.com/AdityaMalu/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AdityaMalu/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0221-maximal-square](https://github.com/AdityaMalu/LeetCode/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/AdityaMalu/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/AdityaMalu/LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -407,6 +408,7 @@ All the Leetcode i do, is here
 | [0064-minimum-path-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/AdityaMalu/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AdityaMalu/LeetCode/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/AdityaMalu/LeetCode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/AdityaMalu/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AdityaMalu/LeetCode/tree/master/0733-flood-fill) |
@@ -573,6 +575,7 @@ All the Leetcode i do, is here
 | [0124-binary-tree-maximum-path-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/AdityaMalu/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/AdityaMalu/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0221-maximal-square](https://github.com/AdityaMalu/LeetCode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/AdityaMalu/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/AdityaMalu/LeetCode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/AdityaMalu/LeetCode/tree/master/0322-coin-change) |
