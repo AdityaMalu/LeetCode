@@ -237,6 +237,7 @@ All the Leetcode i do, is here
 | [0242-valid-anagram](https://github.com/AdityaMalu/LeetCode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdityaMalu/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/AdityaMalu/LeetCode/tree/master/0443-string-compression) |
+| [0686-repeated-string-match](https://github.com/AdityaMalu/LeetCode/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/AdityaMalu/LeetCode/tree/master/0812-rotate-string) |
 | [1250-longest-common-subsequence](https://github.com/AdityaMalu/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AdityaMalu/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -470,6 +471,7 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AdityaMalu/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/AdityaMalu/LeetCode/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/AdityaMalu/LeetCode/tree/master/0812-rotate-string) |
 ## Sorting
 |  |
