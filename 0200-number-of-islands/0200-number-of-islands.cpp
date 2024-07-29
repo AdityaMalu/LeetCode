@@ -1,42 +1,54 @@
+#include <vector>
+#include <queue>
 
-class Solution
-{
+using namespace std;
+
+class Solution {
 public:
-    int numIslands(vector<vector<char>> &grid)
-    {
-        if (grid.empty() || grid[0].empty())
-        {
-            return 0;
-        }
+    void bfs(vector<vector<char>>& grid, int i, int j, vector<vector<bool>>& vis) {
+        int rows = grid.size();
+        int cols = grid[0].size();
+        queue<pair<int, int>> q;
+        q.push({i, j});
+        vis[i][j] = true;
 
+        vector<int> drow = {0, 0, 1, -1};
+        vector<int> dcol = {1, -1, 0, 0};
+
+        while (!q.empty()) {
+            auto [r, c] = q.front();
+            q.pop();
+
+            for (int k = 0; k < 4; ++k) {
+                int newRow = r + drow[k];
+                int newCol = c + dcol[k];
+
+                if (newRow >= 0 && newRow < rows && newCol >= 0 && newCol < cols &&
+                    grid[newRow][newCol] == '1' && !vis[newRow][newCol]) {
+                    vis[newRow][newCol] = true;
+                    q.push({newRow, newCol});
+                }
+            }
+        }
+    }
+
+    int numIslands(vector<vector<char>>& grid) {
+        if (grid.empty()) return 0;
+
+        int rows = grid.size();
+        int cols = grid[0].size();
+        vector<vector<bool>> vis(rows, vector<bool>(cols, false));
         int numIslands = 0;
-        for (int i = 0; i < grid.size(); i++)
-        {
-            for (int j = 0; j < grid[0].size(); j++)
-            {
-                if (grid[i][j] == '1')
-                {
-                    numIslands++;
-                    dfs(grid, i, j);
+
+        for (int i = 0; i < rows; ++i) {
+            for (int j = 0; j < cols; ++j) {
+                if (grid[i][j] == '1' && !vis[i][j]) {
+                    ++numIslands;
+                    bfs(grid, i, j, vis);
                 }
             }
         }
 
         return numIslands;
-    }
-
-private:
-    void dfs(vector<vector<char>> &grid, int i, int j)
-    {
-        if (i < 0 || i >= grid.size() || j < 0 || j >= grid[0].size() || grid[i][j] != '1')
-        {
-            return;
-        }
-
-        grid[i][j] = '0';    
-        dfs(grid, i + 1, j); 
-        dfs(grid, i - 1, j); 
-        dfs(grid, i, j + 1);
-        dfs(grid, i, j - 1);
     }
 };
