@@ -232,6 +232,7 @@ All the Leetcode i do, is here
 | [0038-count-and-say](https://github.com/AdityaMalu/LeetCode/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/AdityaMalu/LeetCode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/AdityaMalu/LeetCode/tree/master/0097-interleaving-string) |
+| [0139-word-break](https://github.com/AdityaMalu/LeetCode/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/AdityaMalu/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0208-implement-trie-prefix-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/AdityaMalu/LeetCode/tree/master/0242-valid-anagram) |
@@ -283,6 +284,7 @@ All the Leetcode i do, is here
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AdityaMalu/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/AdityaMalu/LeetCode/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/AdityaMalu/LeetCode/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/AdityaMalu/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/AdityaMalu/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaMalu/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/AdityaMalu/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -342,6 +344,7 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AdityaMalu/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0139-word-break](https://github.com/AdityaMalu/LeetCode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/AdityaMalu/LeetCode/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/AdityaMalu/LeetCode/tree/master/0242-valid-anagram) |
@@ -581,6 +584,7 @@ All the Leetcode i do, is here
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AdityaMalu/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/AdityaMalu/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/AdityaMalu/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/AdityaMalu/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/AdityaMalu/LeetCode/tree/master/0221-maximal-square) |
@@ -667,6 +671,7 @@ All the Leetcode i do, is here
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/AdityaMalu/LeetCode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/AdityaMalu/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Bit Manipulation
@@ -750,5 +755,6 @@ All the Leetcode i do, is here
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/AdityaMalu/LeetCode/tree/master/0139-word-break) |
 | [1488-sort-integers-by-the-power-value](https://github.com/AdityaMalu/LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
 <!---LeetCode Topics End-->
