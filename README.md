@@ -276,6 +276,7 @@ All the Leetcode i do, is here
 | ------- |
 | [0016-3sum-closest](https://github.com/AdityaMalu/LeetCode/tree/master/0016-3sum-closest) |
 | [0045-jump-game-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/AdityaMalu/LeetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -417,6 +418,7 @@ All the Leetcode i do, is here
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/AdityaMalu/LeetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/AdityaMalu/LeetCode/tree/master/0130-surrounded-regions) |
@@ -770,4 +772,8 @@ All the Leetcode i do, is here
 | ------- |
 | [0139-word-break](https://github.com/AdityaMalu/LeetCode/tree/master/0139-word-break) |
 | [1488-sort-integers-by-the-power-value](https://github.com/AdityaMalu/LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/AdityaMalu/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
