@@ -12,12 +12,8 @@ public:
             }
         }
 
-
-        for(auto i : sums){
-            cout<<i<<" ";
-        }
-
         sort(sums.begin(), sums.end());
+
         for(int i = left-1 ; i <=right-1 ; i++){
             ans += sums[i];
             ans%=MOD;
