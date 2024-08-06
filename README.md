@@ -725,6 +725,7 @@ All the Leetcode i do, is here
 | ------- |
 | [0182-duplicate-emails](https://github.com/AdityaMalu/LeetCode/tree/master/0182-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/AdityaMalu/LeetCode/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/AdityaMalu/LeetCode/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/AdityaMalu/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Binary Indexed Tree
 |  |
