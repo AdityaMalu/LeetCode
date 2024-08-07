@@ -739,6 +739,7 @@ All the Leetcode i do, is here
 | [0610-triangle-judgement](https://github.com/AdityaMalu/LeetCode/tree/master/0610-triangle-judgement) |
 | [1153-product-sales-analysis-i](https://github.com/AdityaMalu/LeetCode/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/AdityaMalu/LeetCode/tree/master/1258-article-views-i) |
+| [1390-average-selling-price](https://github.com/AdityaMalu/LeetCode/tree/master/1390-average-selling-price) |
 | [1801-average-time-of-process-per-machine](https://github.com/AdityaMalu/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/AdityaMalu/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/AdityaMalu/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
