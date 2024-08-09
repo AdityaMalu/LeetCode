@@ -747,6 +747,7 @@ All the Leetcode i do, is here
 | [1338-queries-quality-and-percentage](https://github.com/AdityaMalu/LeetCode/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/AdityaMalu/LeetCode/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/AdityaMalu/LeetCode/tree/master/1415-students-and-examinations) |
+| [1670-patients-with-a-condition](https://github.com/AdityaMalu/LeetCode/tree/master/1670-patients-with-a-condition) |
 | [1801-average-time-of-process-per-machine](https://github.com/AdityaMalu/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/AdityaMalu/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/AdityaMalu/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
