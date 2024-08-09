@@ -315,6 +315,7 @@ All the Leetcode i do, is here
 | [0518-coin-change-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/AdityaMalu/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AdityaMalu/LeetCode/tree/master/0733-flood-fill) |
+| [0870-magic-squares-in-grid](https://github.com/AdityaMalu/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0881-loud-and-rich](https://github.com/AdityaMalu/LeetCode/tree/master/0881-loud-and-rich) |
 | [0909-stone-game](https://github.com/AdityaMalu/LeetCode/tree/master/0909-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/AdityaMalu/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
@@ -367,6 +368,7 @@ All the Leetcode i do, is here
 | [0460-lfu-cache](https://github.com/AdityaMalu/LeetCode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/AdityaMalu/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AdityaMalu/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0870-magic-squares-in-grid](https://github.com/AdityaMalu/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0966-binary-subarrays-with-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/AdityaMalu/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -438,6 +440,7 @@ All the Leetcode i do, is here
 | [0240-search-a-2d-matrix-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/AdityaMalu/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AdityaMalu/LeetCode/tree/master/0733-flood-fill) |
+| [0870-magic-squares-in-grid](https://github.com/AdityaMalu/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0967-minimum-falling-path-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/AdityaMalu/LeetCode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/AdityaMalu/LeetCode/tree/master/1073-number-of-enclaves) |
@@ -773,6 +776,7 @@ All the Leetcode i do, is here
 | ------- |
 | [0273-integer-to-english-words](https://github.com/AdityaMalu/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0368-largest-divisible-subset](https://github.com/AdityaMalu/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0870-magic-squares-in-grid](https://github.com/AdityaMalu/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0909-stone-game](https://github.com/AdityaMalu/LeetCode/tree/master/0909-stone-game) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AdityaMalu/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Backtracking
