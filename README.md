@@ -231,6 +231,7 @@ All the Leetcode i do, is here
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AdityaMalu/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/AdityaMalu/LeetCode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/AdityaMalu/LeetCode/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/AdityaMalu/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/AdityaMalu/LeetCode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/AdityaMalu/LeetCode/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/AdityaMalu/LeetCode/tree/master/0139-word-break) |
@@ -253,6 +254,7 @@ All the Leetcode i do, is here
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/AdityaMalu/LeetCode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AdityaMalu/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AdityaMalu/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AdityaMalu/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
