@@ -45,10 +45,10 @@ public:
             }
             else
             {
-                stk.push(stoi(token)); // Convert the token to an integer and push it
+                stk.push(stoi(token)); 
             }
         }
 
-        return stk.top(); // The result will be the top of the stack
+        return stk.top(); 
     }
 };
