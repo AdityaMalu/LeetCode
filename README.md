@@ -393,6 +393,7 @@ All the Leetcode i do, is here
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AdityaMalu/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0086-partition-list](https://github.com/AdityaMalu/LeetCode/tree/master/0086-partition-list) |
+| [0092-reverse-linked-list-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AdityaMalu/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/AdityaMalu/LeetCode/tree/master/0141-linked-list-cycle) |
