@@ -258,6 +258,7 @@ All the Leetcode i do, is here
 | [0084-largest-rectangle-in-histogram](https://github.com/AdityaMalu/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AdityaMalu/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AdityaMalu/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AdityaMalu/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/AdityaMalu/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0496-next-greater-element-i](https://github.com/AdityaMalu/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/AdityaMalu/LeetCode/tree/master/0937-online-stock-span) |
@@ -298,6 +299,7 @@ All the Leetcode i do, is here
 | [0134-gas-station](https://github.com/AdityaMalu/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/AdityaMalu/LeetCode/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/AdityaMalu/LeetCode/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AdityaMalu/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/AdityaMalu/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaMalu/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/AdityaMalu/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -796,6 +798,7 @@ All the Leetcode i do, is here
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AdityaMalu/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0273-integer-to-english-words](https://github.com/AdityaMalu/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0368-largest-divisible-subset](https://github.com/AdityaMalu/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0870-magic-squares-in-grid](https://github.com/AdityaMalu/LeetCode/tree/master/0870-magic-squares-in-grid) |
