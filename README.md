@@ -759,6 +759,7 @@ All the Leetcode i do, is here
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/AdityaMalu/LeetCode/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/AdityaMalu/LeetCode/tree/master/0180-consecutive-numbers) |
 | [0182-duplicate-emails](https://github.com/AdityaMalu/LeetCode/tree/master/0182-duplicate-emails) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/AdityaMalu/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
