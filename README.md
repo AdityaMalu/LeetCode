@@ -298,6 +298,7 @@ All the Leetcode i do, is here
 | [0130-surrounded-regions](https://github.com/AdityaMalu/LeetCode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/AdityaMalu/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/AdityaMalu/LeetCode/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/AdityaMalu/LeetCode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/AdityaMalu/LeetCode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AdityaMalu/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/AdityaMalu/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -746,6 +747,7 @@ All the Leetcode i do, is here
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/AdityaMalu/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/AdityaMalu/LeetCode/tree/master/0268-missing-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/AdityaMalu/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/AdityaMalu/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
