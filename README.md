@@ -408,6 +408,7 @@ All the Leetcode i do, is here
 | [0141-linked-list-cycle](https://github.com/AdityaMalu/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/AdityaMalu/LeetCode/tree/master/0146-lru-cache) |
+| [0203-remove-linked-list-elements](https://github.com/AdityaMalu/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/AdityaMalu/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0460-lfu-cache](https://github.com/AdityaMalu/LeetCode/tree/master/0460-lfu-cache) |
 | [0908-middle-of-the-linked-list](https://github.com/AdityaMalu/LeetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -873,6 +874,7 @@ All the Leetcode i do, is here
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/AdityaMalu/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/AdityaMalu/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/AdityaMalu/LeetCode/tree/master/0273-integer-to-english-words) |
 ## Strongly Connected Component
