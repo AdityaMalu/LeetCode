@@ -328,6 +328,7 @@ All the Leetcode i do, is here
 | [0518-coin-change-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/AdityaMalu/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AdityaMalu/LeetCode/tree/master/0733-flood-fill) |
+| [0792-binary-search](https://github.com/AdityaMalu/LeetCode/tree/master/0792-binary-search) |
 | [0870-magic-squares-in-grid](https://github.com/AdityaMalu/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0881-loud-and-rich](https://github.com/AdityaMalu/LeetCode/tree/master/0881-loud-and-rich) |
 | [0909-stone-game](https://github.com/AdityaMalu/LeetCode/tree/master/0909-stone-game) |
@@ -706,6 +707,7 @@ All the Leetcode i do, is here
 | [0493-reverse-pairs](https://github.com/AdityaMalu/LeetCode/tree/master/0493-reverse-pairs) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AdityaMalu/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0792-binary-search](https://github.com/AdityaMalu/LeetCode/tree/master/0792-binary-search) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AdityaMalu/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AdityaMalu/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
