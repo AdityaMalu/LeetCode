@@ -11,19 +11,15 @@
  */
 class Solution {
 public:
-    void pre(TreeNode* root,vector<int> &res){
-        if(!root){
-            res.push_back(INT_MIN);
-            return; 
-        }
-        res.push_back(root->val);
-        pre(root->left,res);
-        pre(root->right,res);
+    bool preorder(TreeNode* p, TreeNode* q){
+        if(p == nullptr && q==nullptr) return true;
+        if(p == nullptr || q == nullptr) return false;
+
+        if(p->val != q->val) return false;
+
+        return preorder(p->left,q->left) && preorder(p->right,q->right);
     }
     bool isSameTree(TreeNode* p, TreeNode* q) {
-        vector<int> one,two;
-        pre(p,one);
-        pre(q,two);
-        return one==two;
+        return preorder(p,q);
     }
 };
