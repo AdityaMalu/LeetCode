@@ -361,6 +361,7 @@ All the Leetcode i do, is here
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AdityaMalu/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/AdityaMalu/LeetCode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2047-find-a-peak-element-ii](https://github.com/AdityaMalu/LeetCode/tree/master/2047-find-a-peak-element-ii) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/AdityaMalu/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/AdityaMalu/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/AdityaMalu/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/AdityaMalu/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
@@ -489,6 +490,7 @@ All the Leetcode i do, is here
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AdityaMalu/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AdityaMalu/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2047-find-a-peak-element-ii](https://github.com/AdityaMalu/LeetCode/tree/master/2047-find-a-peak-element-ii) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/AdityaMalu/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2472-build-a-matrix-with-conditions](https://github.com/AdityaMalu/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Data Stream
 |  |
@@ -898,6 +900,7 @@ All the Leetcode i do, is here
 | ------- |
 | [0054-spiral-matrix](https://github.com/AdityaMalu/LeetCode/tree/master/0054-spiral-matrix) |
 | [0874-backspace-string-compare](https://github.com/AdityaMalu/LeetCode/tree/master/0874-backspace-string-compare) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/AdityaMalu/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Recursion
 |  |
 | ------- |
