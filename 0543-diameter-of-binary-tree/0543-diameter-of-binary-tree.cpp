@@ -11,24 +11,23 @@
  */
 class Solution {
 public:
-    int dfs(TreeNode* root,int &ans){
-        if(!root){
-            return 0;
-        }
-        if(!root->left && !root->right){
-            return 1;
-        }
+    int recc(TreeNode* root,int &ans){
+        if(!root) return 0;
 
-        int left = dfs(root->left,ans);
-        int right = dfs(root->right,ans);
+        if(!root->left && !root->right) return 1;
+
+        int left = recc(root->left,ans);
+        int right = recc(root->right,ans);
 
         ans = max(ans,left+right);
 
-        return max(left,right) + 1;
+        return max(left,right)+1;
     }
+
     int diameterOfBinaryTree(TreeNode* root) {
         int ans = 0;
-        dfs(root,ans);
+        recc(root,ans);
         return ans;
+
     }
 };
