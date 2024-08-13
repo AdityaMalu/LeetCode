@@ -282,6 +282,7 @@ All the Leetcode i do, is here
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/AdityaMalu/LeetCode/tree/master/0016-3sum-closest) |
 | [0045-jump-game-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/AdityaMalu/LeetCode/tree/master/0049-group-anagrams) |
@@ -372,6 +373,7 @@ All the Leetcode i do, is here
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/AdityaMalu/LeetCode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AdityaMalu/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/AdityaMalu/LeetCode/tree/master/0139-word-break) |
