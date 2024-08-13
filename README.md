@@ -239,6 +239,7 @@ All the Leetcode i do, is here
 | [0208-implement-trie-prefix-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/AdityaMalu/LeetCode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/AdityaMalu/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0392-is-subsequence](https://github.com/AdityaMalu/LeetCode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdityaMalu/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/AdityaMalu/LeetCode/tree/master/0443-string-compression) |
 | [0686-repeated-string-match](https://github.com/AdityaMalu/LeetCode/tree/master/0686-repeated-string-match) |
@@ -540,6 +541,7 @@ All the Leetcode i do, is here
 | [0165-compare-version-numbers](https://github.com/AdityaMalu/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaMalu/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/AdityaMalu/LeetCode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/AdityaMalu/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/AdityaMalu/LeetCode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/AdityaMalu/LeetCode/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AdityaMalu/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -688,6 +690,7 @@ All the Leetcode i do, is here
 | [0312-burst-balloons](https://github.com/AdityaMalu/LeetCode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/AdityaMalu/LeetCode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/AdityaMalu/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0392-is-subsequence](https://github.com/AdityaMalu/LeetCode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0494-target-sum) |
