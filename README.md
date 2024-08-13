@@ -243,6 +243,7 @@ All the Leetcode i do, is here
 | [0443-string-compression](https://github.com/AdityaMalu/LeetCode/tree/master/0443-string-compression) |
 | [0686-repeated-string-match](https://github.com/AdityaMalu/LeetCode/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/AdityaMalu/LeetCode/tree/master/0812-rotate-string) |
+| [0874-backspace-string-compare](https://github.com/AdityaMalu/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1250-longest-common-subsequence](https://github.com/AdityaMalu/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AdityaMalu/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/AdityaMalu/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -261,6 +262,7 @@ All the Leetcode i do, is here
 | [0150-evaluate-reverse-polish-notation](https://github.com/AdityaMalu/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/AdityaMalu/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0496-next-greater-element-i](https://github.com/AdityaMalu/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0874-backspace-string-compare](https://github.com/AdityaMalu/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0937-online-stock-span](https://github.com/AdityaMalu/LeetCode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/AdityaMalu/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/AdityaMalu/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -535,6 +537,7 @@ All the Leetcode i do, is here
 | [0443-string-compression](https://github.com/AdityaMalu/LeetCode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/AdityaMalu/LeetCode/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AdityaMalu/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0874-backspace-string-compare](https://github.com/AdityaMalu/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/AdityaMalu/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/AdityaMalu/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AdityaMalu/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -889,6 +892,7 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AdityaMalu/LeetCode/tree/master/0054-spiral-matrix) |
+| [0874-backspace-string-compare](https://github.com/AdityaMalu/LeetCode/tree/master/0874-backspace-string-compare) |
 ## Recursion
 |  |
 | ------- |
