@@ -339,6 +339,7 @@ All the Leetcode i do, is here
 | [0966-binary-subarrays-with-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/AdityaMalu/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+| [1019-squares-of-a-sorted-array](https://github.com/AdityaMalu/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/AdityaMalu/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/AdityaMalu/LeetCode/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AdityaMalu/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -535,6 +536,7 @@ All the Leetcode i do, is here
 | [0455-assign-cookies](https://github.com/AdityaMalu/LeetCode/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AdityaMalu/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/AdityaMalu/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1019-squares-of-a-sorted-array](https://github.com/AdityaMalu/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AdityaMalu/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## String Matching
 |  |
@@ -556,6 +558,7 @@ All the Leetcode i do, is here
 | [0368-largest-divisible-subset](https://github.com/AdityaMalu/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/AdityaMalu/LeetCode/tree/master/0455-assign-cookies) |
 | [0948-sort-an-array](https://github.com/AdityaMalu/LeetCode/tree/master/0948-sort-an-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/AdityaMalu/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1333-sort-the-jumbled-numbers](https://github.com/AdityaMalu/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1488-sort-integers-by-the-power-value](https://github.com/AdityaMalu/LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
