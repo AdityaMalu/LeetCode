@@ -278,6 +278,7 @@ All the Leetcode i do, is here
 | [0135-candy](https://github.com/AdityaMalu/LeetCode/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/AdityaMalu/LeetCode/tree/master/0455-assign-cookies) |
+| [0624-maximum-distance-in-arrays](https://github.com/AdityaMalu/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/AdityaMalu/LeetCode/tree/master/0890-lemonade-change) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AdityaMalu/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AdityaMalu/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -334,6 +335,7 @@ All the Leetcode i do, is here
 | [0496-next-greater-element-i](https://github.com/AdityaMalu/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/AdityaMalu/LeetCode/tree/master/0542-01-matrix) |
+| [0624-maximum-distance-in-arrays](https://github.com/AdityaMalu/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/AdityaMalu/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/AdityaMalu/LeetCode/tree/master/0733-flood-fill) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/AdityaMalu/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
