@@ -400,6 +400,7 @@ All the Leetcode i do, is here
 | [0208-implement-trie-prefix-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/AdityaMalu/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AdityaMalu/LeetCode/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/AdityaMalu/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AdityaMalu/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/AdityaMalu/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -529,6 +530,7 @@ All the Leetcode i do, is here
 | [0023-merge-k-sorted-lists](https://github.com/AdityaMalu/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AdityaMalu/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/AdityaMalu/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AdityaMalu/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0744-network-delay-time](https://github.com/AdityaMalu/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AdityaMalu/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -696,6 +698,7 @@ All the Leetcode i do, is here
 | [0152-maximum-product-subarray](https://github.com/AdityaMalu/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/AdityaMalu/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/AdityaMalu/LeetCode/tree/master/0221-maximal-square) |
+| [0264-ugly-number-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/AdityaMalu/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/AdityaMalu/LeetCode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/AdityaMalu/LeetCode/tree/master/0322-coin-change) |
@@ -878,6 +881,7 @@ All the Leetcode i do, is here
 | ------- |
 | [0070-climbing-stairs](https://github.com/AdityaMalu/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AdityaMalu/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0264-ugly-number-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/AdityaMalu/LeetCode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/AdityaMalu/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0368-largest-divisible-subset](https://github.com/AdityaMalu/LeetCode/tree/master/0368-largest-divisible-subset) |
