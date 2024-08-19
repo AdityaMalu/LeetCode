@@ -321,6 +321,7 @@ All the Leetcode i do, is here
 | [0239-sliding-window-maximum](https://github.com/AdityaMalu/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/AdityaMalu/LeetCode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/AdityaMalu/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/AdityaMalu/LeetCode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/AdityaMalu/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/AdityaMalu/LeetCode/tree/master/0303-range-sum-query-immutable) |
@@ -580,6 +581,7 @@ All the Leetcode i do, is here
 | [0217-contains-duplicate](https://github.com/AdityaMalu/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AdityaMalu/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AdityaMalu/LeetCode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/AdityaMalu/LeetCode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/AdityaMalu/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/AdityaMalu/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/AdityaMalu/LeetCode/tree/master/0455-assign-cookies) |
@@ -915,6 +917,7 @@ All the Leetcode i do, is here
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/AdityaMalu/LeetCode/tree/master/0274-h-index) |
 | [0948-sort-an-array](https://github.com/AdityaMalu/LeetCode/tree/master/0948-sort-an-array) |
 ## Game Theory
 |  |
