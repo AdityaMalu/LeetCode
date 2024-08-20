@@ -233,6 +233,7 @@ All the Leetcode i do, is here
 | [0049-group-anagrams](https://github.com/AdityaMalu/LeetCode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/AdityaMalu/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/AdityaMalu/LeetCode/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/AdityaMalu/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/AdityaMalu/LeetCode/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/AdityaMalu/LeetCode/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/AdityaMalu/LeetCode/tree/master/0165-compare-version-numbers) |
@@ -393,6 +394,7 @@ All the Leetcode i do, is here
 | ------- |
 | [0001-two-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/AdityaMalu/LeetCode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/AdityaMalu/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AdityaMalu/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/AdityaMalu/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/AdityaMalu/LeetCode/tree/master/0139-word-break) |
@@ -518,6 +520,7 @@ All the Leetcode i do, is here
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/AdityaMalu/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/AdityaMalu/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdityaMalu/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
