@@ -244,6 +244,7 @@ All the Leetcode i do, is here
 | [0392-is-subsequence](https://github.com/AdityaMalu/LeetCode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdityaMalu/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/AdityaMalu/LeetCode/tree/master/0443-string-compression) |
+| [0664-strange-printer](https://github.com/AdityaMalu/LeetCode/tree/master/0664-strange-printer) |
 | [0686-repeated-string-match](https://github.com/AdityaMalu/LeetCode/tree/master/0686-repeated-string-match) |
 | [0800-letter-case-permutation](https://github.com/AdityaMalu/LeetCode/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/AdityaMalu/LeetCode/tree/master/0812-rotate-string) |
@@ -725,6 +726,7 @@ All the Leetcode i do, is here
 | [0518-coin-change-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/AdityaMalu/LeetCode/tree/master/0542-01-matrix) |
 | [0650-2-keys-keyboard](https://github.com/AdityaMalu/LeetCode/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/AdityaMalu/LeetCode/tree/master/0664-strange-printer) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AdityaMalu/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0909-stone-game](https://github.com/AdityaMalu/LeetCode/tree/master/0909-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/AdityaMalu/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
