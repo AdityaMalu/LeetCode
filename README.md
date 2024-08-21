@@ -406,6 +406,7 @@ All the Leetcode i do, is here
 | [0141-linked-list-cycle](https://github.com/AdityaMalu/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/AdityaMalu/LeetCode/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/AdityaMalu/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/AdityaMalu/LeetCode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/AdityaMalu/LeetCode/tree/master/0217-contains-duplicate) |
@@ -442,6 +443,7 @@ All the Leetcode i do, is here
 | [0141-linked-list-cycle](https://github.com/AdityaMalu/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/AdityaMalu/LeetCode/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/AdityaMalu/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/AdityaMalu/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/AdityaMalu/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0460-lfu-cache](https://github.com/AdityaMalu/LeetCode/tree/master/0460-lfu-cache) |
@@ -565,6 +567,7 @@ All the Leetcode i do, is here
 | [0088-merge-sorted-array](https://github.com/AdityaMalu/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/AdityaMalu/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/AdityaMalu/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/AdityaMalu/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaMalu/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/AdityaMalu/LeetCode/tree/master/0283-move-zeroes) |
