@@ -839,6 +839,7 @@ All the Leetcode i do, is here
 | [0190-reverse-bits](https://github.com/AdityaMalu/LeetCode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/AdityaMalu/LeetCode/tree/master/0268-missing-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/AdityaMalu/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0476-number-complement](https://github.com/AdityaMalu/LeetCode/tree/master/0476-number-complement) |
 | [0800-letter-case-permutation](https://github.com/AdityaMalu/LeetCode/tree/master/0800-letter-case-permutation) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/AdityaMalu/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Quickselect
