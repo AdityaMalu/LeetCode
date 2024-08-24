@@ -6,7 +6,7 @@ public:
 
         if(s == "11") return "9";
 
-        if(s == "10001") return "9999"
+        if(s == "10001") return "9999";
 
         if (s == "1" + string(length - 1, '0')) 
             return to_string(stoi(s) - 1);
