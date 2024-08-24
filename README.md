@@ -244,6 +244,7 @@ All the Leetcode i do, is here
 | [0392-is-subsequence](https://github.com/AdityaMalu/LeetCode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdityaMalu/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/AdityaMalu/LeetCode/tree/master/0443-string-compression) |
+| [0564-find-the-closest-palindrome](https://github.com/AdityaMalu/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0664-strange-printer](https://github.com/AdityaMalu/LeetCode/tree/master/0664-strange-printer) |
 | [0686-repeated-string-match](https://github.com/AdityaMalu/LeetCode/tree/master/0686-repeated-string-match) |
 | [0800-letter-case-permutation](https://github.com/AdityaMalu/LeetCode/tree/master/0800-letter-case-permutation) |
@@ -925,6 +926,7 @@ All the Leetcode i do, is here
 | [0268-missing-number](https://github.com/AdityaMalu/LeetCode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/AdityaMalu/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0368-largest-divisible-subset](https://github.com/AdityaMalu/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0564-find-the-closest-palindrome](https://github.com/AdityaMalu/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0650-2-keys-keyboard](https://github.com/AdityaMalu/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/AdityaMalu/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0909-stone-game](https://github.com/AdityaMalu/LeetCode/tree/master/0909-stone-game) |
