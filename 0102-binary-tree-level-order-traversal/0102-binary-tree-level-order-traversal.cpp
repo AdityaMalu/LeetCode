@@ -12,24 +12,19 @@
 class Solution {
 public:
     vector<vector<int>> levelOrder(TreeNode* root) {
+        unordered_map<int,vector<int>> mp;
         vector<vector<int>> ans;
-        if(!root){
-            return ans;
-        }
-
-        queue<pair<TreeNode*,int>>q;
-        map<int,vector<int>> mp;
-
+        queue<pair<TreeNode* , int>> q;
         q.push({root,0});
-
         while(!q.empty()){
-
             auto curr = q.front();
+            TreeNode* node= curr.first;
+            int lvl = curr.second;
             q.pop();
 
-            TreeNode* node = curr.first;
-            int lvl = curr.second;
-
+            if(!node)
+                continue;
+            
             if(mp.find(lvl) == mp.end()){
                 mp[lvl] = {node->val};
             }
@@ -45,10 +40,11 @@ public:
             }
         }
 
-        for(auto i : mp){
+        for(auto i:mp){
             ans.push_back(i.second);
         }
-
+        
+        reverse(ans.begin(),ans.end());
         return ans;
     }
 };
