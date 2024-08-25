@@ -18,7 +18,7 @@ public:
 
         if (!root)
             return ans;
-        unordered_map<int, vector<int>> mp;
+        map<int, vector<int>> mp;
         queue<pair<TreeNode*, int>> q;
         q.push({root, 0});
         while (!q.empty()) {
@@ -45,7 +45,7 @@ public:
             ans.push_back(i.second);
         }
 
-        reverse(ans.begin(), ans.end());
+        // reverse(ans.begin(), ans.end());
         return ans;
     }
 };
