@@ -235,6 +235,7 @@ All the Leetcode i do, is here
 | [0071-simplify-path](https://github.com/AdityaMalu/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/AdityaMalu/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/AdityaMalu/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0091-decode-ways](https://github.com/AdityaMalu/LeetCode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/AdityaMalu/LeetCode/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/AdityaMalu/LeetCode/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/AdityaMalu/LeetCode/tree/master/0165-compare-version-numbers) |
@@ -726,6 +727,7 @@ All the Leetcode i do, is here
 | [0064-minimum-path-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/AdityaMalu/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/AdityaMalu/LeetCode/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/AdityaMalu/LeetCode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/AdityaMalu/LeetCode/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/AdityaMalu/LeetCode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
