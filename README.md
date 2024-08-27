@@ -469,6 +469,7 @@ All the Leetcode i do, is here
 | [0146-lru-cache](https://github.com/AdityaMalu/LeetCode/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/AdityaMalu/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0295-find-median-from-data-stream](https://github.com/AdityaMalu/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/AdityaMalu/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0460-lfu-cache](https://github.com/AdityaMalu/LeetCode/tree/master/0460-lfu-cache) |
 | [0937-online-stock-span](https://github.com/AdityaMalu/LeetCode/tree/master/0937-online-stock-span) |
@@ -537,6 +538,7 @@ All the Leetcode i do, is here
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/AdityaMalu/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/AdityaMalu/LeetCode/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
@@ -564,6 +566,7 @@ All the Leetcode i do, is here
 | [0215-kth-largest-element-in-an-array](https://github.com/AdityaMalu/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/AdityaMalu/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0295-find-median-from-data-stream](https://github.com/AdityaMalu/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/AdityaMalu/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0744-network-delay-time](https://github.com/AdityaMalu/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AdityaMalu/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -593,6 +596,7 @@ All the Leetcode i do, is here
 | [0165-compare-version-numbers](https://github.com/AdityaMalu/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaMalu/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/AdityaMalu/LeetCode/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/AdityaMalu/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/AdityaMalu/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/AdityaMalu/LeetCode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/AdityaMalu/LeetCode/tree/master/0455-assign-cookies) |
@@ -620,6 +624,7 @@ All the Leetcode i do, is here
 | [0242-valid-anagram](https://github.com/AdityaMalu/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AdityaMalu/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/AdityaMalu/LeetCode/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/AdityaMalu/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/AdityaMalu/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/AdityaMalu/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/AdityaMalu/LeetCode/tree/master/0435-non-overlapping-intervals) |
