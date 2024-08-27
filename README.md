@@ -379,6 +379,7 @@ All the Leetcode i do, is here
 | [1196-filling-bookcase-shelves](https://github.com/AdityaMalu/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AdityaMalu/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/AdityaMalu/LeetCode/tree/master/1240-stone-game-ii) |
+| [1325-path-with-maximum-probability](https://github.com/AdityaMalu/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/AdityaMalu/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AdityaMalu/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AdityaMalu/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -567,6 +568,7 @@ All the Leetcode i do, is here
 | [0744-network-delay-time](https://github.com/AdityaMalu/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AdityaMalu/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/AdityaMalu/LeetCode/tree/master/0948-sort-an-array) |
+| [1325-path-with-maximum-probability](https://github.com/AdityaMalu/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [2379-maximum-total-importance-of-roads](https://github.com/AdityaMalu/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Monotonic Queue
 |  |
@@ -827,6 +829,7 @@ All the Leetcode i do, is here
 | [0813-all-paths-from-source-to-target](https://github.com/AdityaMalu/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0881-loud-and-rich](https://github.com/AdityaMalu/LeetCode/tree/master/0881-loud-and-rich) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/AdityaMalu/LeetCode/tree/master/1229-shortest-path-with-alternating-colors) |
+| [1325-path-with-maximum-probability](https://github.com/AdityaMalu/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/AdityaMalu/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2379-maximum-total-importance-of-roads](https://github.com/AdityaMalu/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2472-build-a-matrix-with-conditions](https://github.com/AdityaMalu/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
@@ -967,6 +970,7 @@ All the Leetcode i do, is here
 | ------- |
 | [0744-network-delay-time](https://github.com/AdityaMalu/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AdityaMalu/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1325-path-with-maximum-probability](https://github.com/AdityaMalu/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/AdityaMalu/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Radix Sort
 |  |
