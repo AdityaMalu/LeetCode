@@ -390,6 +390,7 @@ All the Leetcode i do, is here
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AdityaMalu/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AdityaMalu/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/AdityaMalu/LeetCode/tree/master/2000-minimum-speed-to-arrive-on-time) |
+| [2035-count-sub-islands](https://github.com/AdityaMalu/LeetCode/tree/master/2035-count-sub-islands) |
 | [2047-find-a-peak-element-ii](https://github.com/AdityaMalu/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/AdityaMalu/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AdityaMalu/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -509,6 +510,7 @@ All the Leetcode i do, is here
 | [1229-shortest-path-with-alternating-colors](https://github.com/AdityaMalu/LeetCode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/AdityaMalu/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AdityaMalu/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/AdityaMalu/LeetCode/tree/master/2035-count-sub-islands) |
 ## Matrix
 |  |
 | ------- |
@@ -532,6 +534,7 @@ All the Leetcode i do, is here
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AdityaMalu/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AdityaMalu/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AdityaMalu/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2035-count-sub-islands](https://github.com/AdityaMalu/LeetCode/tree/master/2035-count-sub-islands) |
 | [2047-find-a-peak-element-ii](https://github.com/AdityaMalu/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AdityaMalu/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2472-build-a-matrix-with-conditions](https://github.com/AdityaMalu/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
@@ -706,6 +709,7 @@ All the Leetcode i do, is here
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/AdityaMalu/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AdityaMalu/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/AdityaMalu/LeetCode/tree/master/2035-count-sub-islands) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AdityaMalu/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Tree
 |  |
@@ -856,6 +860,7 @@ All the Leetcode i do, is here
 | [0999-regions-cut-by-slashes](https://github.com/AdityaMalu/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1073-number-of-enclaves](https://github.com/AdityaMalu/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/AdityaMalu/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [2035-count-sub-islands](https://github.com/AdityaMalu/LeetCode/tree/master/2035-count-sub-islands) |
 ## Trie
 |  |
 | ------- |
