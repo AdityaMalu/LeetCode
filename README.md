@@ -256,6 +256,7 @@ All the Leetcode i do, is here
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/AdityaMalu/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AdityaMalu/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AdityaMalu/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/AdityaMalu/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AdityaMalu/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/AdityaMalu/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AdityaMalu/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -1015,6 +1016,7 @@ All the Leetcode i do, is here
 | ------- |
 | [0054-spiral-matrix](https://github.com/AdityaMalu/LeetCode/tree/master/0054-spiral-matrix) |
 | [0874-backspace-string-compare](https://github.com/AdityaMalu/LeetCode/tree/master/0874-backspace-string-compare) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/AdityaMalu/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AdityaMalu/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Recursion
 |  |
