@@ -365,6 +365,7 @@ All the Leetcode i do, is here
 | [0870-magic-squares-in-grid](https://github.com/AdityaMalu/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0881-loud-and-rich](https://github.com/AdityaMalu/LeetCode/tree/master/0881-loud-and-rich) |
 | [0890-lemonade-change](https://github.com/AdityaMalu/LeetCode/tree/master/0890-lemonade-change) |
+| [0906-walking-robot-simulation](https://github.com/AdityaMalu/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0909-stone-game](https://github.com/AdityaMalu/LeetCode/tree/master/0909-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/AdityaMalu/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/AdityaMalu/LeetCode/tree/master/0948-sort-an-array) |
@@ -438,6 +439,7 @@ All the Leetcode i do, is here
 | [0496-next-greater-element-i](https://github.com/AdityaMalu/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AdityaMalu/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0870-magic-squares-in-grid](https://github.com/AdityaMalu/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [0906-walking-robot-simulation](https://github.com/AdityaMalu/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0966-binary-subarrays-with-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AdityaMalu/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/AdityaMalu/LeetCode/tree/master/0999-regions-cut-by-slashes) |
@@ -1019,6 +1021,7 @@ All the Leetcode i do, is here
 | ------- |
 | [0054-spiral-matrix](https://github.com/AdityaMalu/LeetCode/tree/master/0054-spiral-matrix) |
 | [0874-backspace-string-compare](https://github.com/AdityaMalu/LeetCode/tree/master/0874-backspace-string-compare) |
+| [0906-walking-robot-simulation](https://github.com/AdityaMalu/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AdityaMalu/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/AdityaMalu/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AdityaMalu/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
