@@ -924,6 +924,7 @@ All the Leetcode i do, is here
 | [0595-big-countries](https://github.com/AdityaMalu/LeetCode/tree/master/0595-big-countries) |
 | [0610-triangle-judgement](https://github.com/AdityaMalu/LeetCode/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/AdityaMalu/LeetCode/tree/master/0620-not-boring-movies) |
+| [0626-exchange-seats](https://github.com/AdityaMalu/LeetCode/tree/master/0626-exchange-seats) |
 | [1153-product-sales-analysis-i](https://github.com/AdityaMalu/LeetCode/tree/master/1153-product-sales-analysis-i) |
 | [1155-product-sales-analysis-iii](https://github.com/AdityaMalu/LeetCode/tree/master/1155-product-sales-analysis-iii) |
 | [1161-project-employees-i](https://github.com/AdityaMalu/LeetCode/tree/master/1161-project-employees-i) |
