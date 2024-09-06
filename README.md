@@ -929,6 +929,7 @@ All the Leetcode i do, is here
 | [1161-project-employees-i](https://github.com/AdityaMalu/LeetCode/tree/master/1161-project-employees-i) |
 | [1258-article-views-i](https://github.com/AdityaMalu/LeetCode/tree/master/1258-article-views-i) |
 | [1278-product-price-at-a-given-date](https://github.com/AdityaMalu/LeetCode/tree/master/1278-product-price-at-a-given-date) |
+| [1327-last-person-to-fit-in-the-bus](https://github.com/AdityaMalu/LeetCode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1338-queries-quality-and-percentage](https://github.com/AdityaMalu/LeetCode/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/AdityaMalu/LeetCode/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/AdityaMalu/LeetCode/tree/master/1415-students-and-examinations) |
