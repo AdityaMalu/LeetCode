@@ -472,6 +472,7 @@ All the Leetcode i do, is here
 | [0206-reverse-linked-list](https://github.com/AdityaMalu/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0460-lfu-cache](https://github.com/AdityaMalu/LeetCode/tree/master/0460-lfu-cache) |
 | [0908-middle-of-the-linked-list](https://github.com/AdityaMalu/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1484-linked-list-in-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AdityaMalu/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Design
 |  |
@@ -518,6 +519,7 @@ All the Leetcode i do, is here
 | [1171-shortest-path-in-binary-matrix](https://github.com/AdityaMalu/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/AdityaMalu/LeetCode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/AdityaMalu/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1484-linked-list-in-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AdityaMalu/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/AdityaMalu/LeetCode/tree/master/2035-count-sub-islands) |
 ## Matrix
@@ -678,6 +680,7 @@ All the Leetcode i do, is here
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AdityaMalu/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/AdityaMalu/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AdityaMalu/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Depth-First Search
@@ -718,6 +721,7 @@ All the Leetcode i do, is here
 | [1207-delete-nodes-and-return-forest](https://github.com/AdityaMalu/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/AdityaMalu/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/AdityaMalu/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AdityaMalu/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/AdityaMalu/LeetCode/tree/master/2035-count-sub-islands) |
@@ -748,6 +752,7 @@ All the Leetcode i do, is here
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AdityaMalu/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/AdityaMalu/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AdityaMalu/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Dynamic Programming
