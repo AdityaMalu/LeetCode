@@ -471,6 +471,7 @@ All the Leetcode i do, is here
 | [0203-remove-linked-list-elements](https://github.com/AdityaMalu/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/AdityaMalu/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0460-lfu-cache](https://github.com/AdityaMalu/LeetCode/tree/master/0460-lfu-cache) |
+| [0725-split-linked-list-in-parts](https://github.com/AdityaMalu/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [0908-middle-of-the-linked-list](https://github.com/AdityaMalu/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AdityaMalu/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
