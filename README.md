@@ -400,6 +400,7 @@ All the Leetcode i do, is here
 | [2155-find-missing-observations](https://github.com/AdityaMalu/LeetCode/tree/master/2155-find-missing-observations) |
 | [2227-sum-of-subarray-ranges](https://github.com/AdityaMalu/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/AdityaMalu/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2411-spiral-matrix-iv](https://github.com/AdityaMalu/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/AdityaMalu/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/AdityaMalu/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/AdityaMalu/LeetCode/tree/master/3442-maximum-total-reward-using-operations-i) |
@@ -474,6 +475,7 @@ All the Leetcode i do, is here
 | [0725-split-linked-list-in-parts](https://github.com/AdityaMalu/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [0908-middle-of-the-linked-list](https://github.com/AdityaMalu/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
+| [2411-spiral-matrix-iv](https://github.com/AdityaMalu/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AdityaMalu/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Design
 |  |
@@ -549,6 +551,7 @@ All the Leetcode i do, is here
 | [2035-count-sub-islands](https://github.com/AdityaMalu/LeetCode/tree/master/2035-count-sub-islands) |
 | [2047-find-a-peak-element-ii](https://github.com/AdityaMalu/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AdityaMalu/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2411-spiral-matrix-iv](https://github.com/AdityaMalu/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/AdityaMalu/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Data Stream
 |  |
@@ -1041,6 +1044,7 @@ All the Leetcode i do, is here
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/AdityaMalu/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AdityaMalu/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/AdityaMalu/LeetCode/tree/master/2155-find-missing-observations) |
+| [2411-spiral-matrix-iv](https://github.com/AdityaMalu/LeetCode/tree/master/2411-spiral-matrix-iv) |
 ## Recursion
 |  |
 | ------- |
