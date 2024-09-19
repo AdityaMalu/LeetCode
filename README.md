@@ -240,6 +240,7 @@ All the Leetcode i do, is here
 | [0139-word-break](https://github.com/AdityaMalu/LeetCode/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/AdityaMalu/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0208-implement-trie-prefix-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0241-different-ways-to-add-parentheses](https://github.com/AdityaMalu/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/AdityaMalu/LeetCode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/AdityaMalu/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0392-is-subsequence](https://github.com/AdityaMalu/LeetCode/tree/master/0392-is-subsequence) |
@@ -779,6 +780,7 @@ All the Leetcode i do, is here
 | [0152-maximum-product-subarray](https://github.com/AdityaMalu/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/AdityaMalu/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/AdityaMalu/LeetCode/tree/master/0221-maximal-square) |
+| [0241-different-ways-to-add-parentheses](https://github.com/AdityaMalu/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/AdityaMalu/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/AdityaMalu/LeetCode/tree/master/0312-burst-balloons) |
@@ -989,6 +991,7 @@ All the Leetcode i do, is here
 | [0050-powx-n](https://github.com/AdityaMalu/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/AdityaMalu/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AdityaMalu/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0241-different-ways-to-add-parentheses](https://github.com/AdityaMalu/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/AdityaMalu/LeetCode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/AdityaMalu/LeetCode/tree/master/0273-integer-to-english-words) |
@@ -1035,6 +1038,7 @@ All the Leetcode i do, is here
 | ------- |
 | [0070-climbing-stairs](https://github.com/AdityaMalu/LeetCode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/AdityaMalu/LeetCode/tree/master/0139-word-break) |
+| [0241-different-ways-to-add-parentheses](https://github.com/AdityaMalu/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1488-sort-integers-by-the-power-value](https://github.com/AdityaMalu/LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
 ## Simulation
 |  |
@@ -1055,6 +1059,7 @@ All the Leetcode i do, is here
 | [0143-reorder-list](https://github.com/AdityaMalu/LeetCode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/AdityaMalu/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/AdityaMalu/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/AdityaMalu/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/AdityaMalu/LeetCode/tree/master/0273-integer-to-english-words) |
 ## Strongly Connected Component
 |  |
