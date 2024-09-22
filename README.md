@@ -896,6 +896,7 @@ All the Leetcode i do, is here
 | [0208-implement-trie-prefix-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/AdityaMalu/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/AdityaMalu/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/AdityaMalu/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Bit Manipulation
 |  |
 | ------- |
