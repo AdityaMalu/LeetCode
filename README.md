@@ -362,6 +362,7 @@ All the Leetcode i do, is here
 | [0542-01-matrix](https://github.com/AdityaMalu/LeetCode/tree/master/0542-01-matrix) |
 | [0624-maximum-distance-in-arrays](https://github.com/AdityaMalu/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/AdityaMalu/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0729-my-calendar-i](https://github.com/AdityaMalu/LeetCode/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/AdityaMalu/LeetCode/tree/master/0733-flood-fill) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/AdityaMalu/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/AdityaMalu/LeetCode/tree/master/0792-binary-search) |
@@ -493,6 +494,7 @@ All the Leetcode i do, is here
 | [0295-find-median-from-data-stream](https://github.com/AdityaMalu/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/AdityaMalu/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0460-lfu-cache](https://github.com/AdityaMalu/LeetCode/tree/master/0460-lfu-cache) |
+| [0729-my-calendar-i](https://github.com/AdityaMalu/LeetCode/tree/master/0729-my-calendar-i) |
 | [0937-online-stock-span](https://github.com/AdityaMalu/LeetCode/tree/master/0937-online-stock-span) |
 ## Doubly-Linked List
 |  |
@@ -844,6 +846,7 @@ All the Leetcode i do, is here
 | [0410-split-array-largest-sum](https://github.com/AdityaMalu/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/AdityaMalu/LeetCode/tree/master/0493-reverse-pairs) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AdityaMalu/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0729-my-calendar-i](https://github.com/AdityaMalu/LeetCode/tree/master/0729-my-calendar-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/AdityaMalu/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/AdityaMalu/LeetCode/tree/master/0792-binary-search) |
@@ -975,6 +978,7 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/AdityaMalu/LeetCode/tree/master/0493-reverse-pairs) |
+| [0729-my-calendar-i](https://github.com/AdityaMalu/LeetCode/tree/master/0729-my-calendar-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -985,6 +989,7 @@ All the Leetcode i do, is here
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/AdityaMalu/LeetCode/tree/master/0493-reverse-pairs) |
+| [0729-my-calendar-i](https://github.com/AdityaMalu/LeetCode/tree/master/0729-my-calendar-i) |
 ## Prefix Sum
 |  |
 | ------- |
