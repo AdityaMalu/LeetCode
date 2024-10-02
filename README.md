@@ -386,6 +386,7 @@ All the Leetcode i do, is here
 | [1196-filling-bookcase-shelves](https://github.com/AdityaMalu/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AdityaMalu/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/AdityaMalu/LeetCode/tree/master/1240-stone-game-ii) |
+| [1256-rank-transform-of-an-array](https://github.com/AdityaMalu/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/AdityaMalu/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/AdityaMalu/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AdityaMalu/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -456,6 +457,7 @@ All the Leetcode i do, is here
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/AdityaMalu/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AdityaMalu/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1256-rank-transform-of-an-array](https://github.com/AdityaMalu/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AdityaMalu/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AdityaMalu/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AdityaMalu/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -662,6 +664,7 @@ All the Leetcode i do, is here
 | [0948-sort-an-array](https://github.com/AdityaMalu/LeetCode/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/AdityaMalu/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AdityaMalu/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1256-rank-transform-of-an-array](https://github.com/AdityaMalu/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/AdityaMalu/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1488-sort-integers-by-the-power-value](https://github.com/AdityaMalu/LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AdityaMalu/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
