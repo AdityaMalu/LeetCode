@@ -410,6 +410,7 @@ All the Leetcode i do, is here
 | [2067-maximum-number-of-points-with-cost](https://github.com/AdityaMalu/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AdityaMalu/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/AdityaMalu/LeetCode/tree/master/2155-find-missing-observations) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/AdityaMalu/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2227-sum-of-subarray-ranges](https://github.com/AdityaMalu/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/AdityaMalu/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2411-spiral-matrix-iv](https://github.com/AdityaMalu/LeetCode/tree/master/2411-spiral-matrix-iv) |
@@ -878,6 +879,7 @@ All the Leetcode i do, is here
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/AdityaMalu/LeetCode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AdityaMalu/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2047-find-a-peak-element-ii](https://github.com/AdityaMalu/LeetCode/tree/master/2047-find-a-peak-element-ii) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/AdityaMalu/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Iterator
 |  |
 | ------- |
