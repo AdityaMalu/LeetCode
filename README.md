@@ -313,6 +313,7 @@ All the Leetcode i do, is here
 | [0016-3sum-closest](https://github.com/AdityaMalu/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AdityaMalu/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AdityaMalu/LeetCode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/AdityaMalu/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/AdityaMalu/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/AdityaMalu/LeetCode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/AdityaMalu/LeetCode/tree/master/0049-group-anagrams) |
@@ -855,6 +856,7 @@ All the Leetcode i do, is here
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/AdityaMalu/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/AdityaMalu/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/AdityaMalu/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaMalu/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
